@@ -1,0 +1,194 @@
+[
+  {
+    "name": "1080",
+    "width": 800,
+    "height": 512,
+    "round": 8,
+    "color": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "1440",
+    "width": 1600,
+    "height": 1024,
+    "round": 16,
+    "color": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "2880",
+    "width": 2000,
+    "height": 1280,
+    "round": 20,
+    "color": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "else",
+    "width": 2400,
+    "height": 1536,
+    "round": 24,
+    "color": [
+      0,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "gre1080",
+    "width": 16,
+    "height": 16,
+    "round": 8,
+    "color": [
+      0,
+      255,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "gre2k",
+    "width": 32,
+    "height": 32,
+    "round": 16,
+    "color": [
+      0,
+      255,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "gre4k",
+    "width": 40,
+    "height": 40,
+    "round": 20,
+    "color": [
+      0,
+      255,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "gre4k+",
+    "width": 48,
+    "height": 48,
+    "round": 24,
+    "color": [
+      0,
+      255,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "red1080",
+    "width": 16,
+    "height": 16,
+    "round": 8,
+    "color": [
+      255,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "red2k",
+    "width": 32,
+    "height": 32,
+    "round": 16,
+    "color": [
+      255,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "red4k",
+    "width": 40,
+    "height": 40,
+    "round": 20,
+    "color": [
+      255,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "red4k+",
+    "width": 48,
+    "height": 48,
+    "round": 24,
+    "color": [
+      255,
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "yel1080",
+    "width": 16,
+    "height": 16,
+    "round": 8,
+    "color": [
+      255,
+      200,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "yel2k",
+    "width": 32,
+    "height": 32,
+    "round": 16,
+    "color": [
+      255,
+      200,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "yel4k",
+    "width": 40,
+    "height": 40,
+    "round": 20,
+    "color": [
+      255,
+      200,
+      0,
+      255
+    ]
+  },
+  {
+    "name": "yel4k+",
+    "width": 48,
+    "height": 48,
+    "round": 24,
+    "color": [
+      255,
+      200,
+      0,
+      255
+    ]
+  }
+]
