@@ -2,15 +2,15 @@ import os
 
 command = "ffmpeg -y"
 
-src_path = r"E:\Videos\BiliBiliLive\live_865267_9146410-2021-03-13-23-30-诶嘿.flv"
-target_path = r"E:\Videos\BiliBiliLive\live_865267_9146410-2021-03-13-23-30-诶嘿.mp4"
+src_path = r"2021-03-14-20-22-19-非浓缩2金.mkv"
+target_path = r"2021-03-14-20-22-19-非浓缩2金.mp4"
 
-# hh:mm:ss
 is_cut = False
 is_copy = True
 is_compression = False
 is_nvenc = True
 
+# hh:mm:ss "00:00:00"
 start_time = "00:00:00"
 end_time = "00:00:00"
 target_resolution = "1280*720"
