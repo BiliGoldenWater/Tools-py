@@ -33,17 +33,20 @@ def ocr(access_token, url, filename, img_type):
         return final_result
 
 
-url_auth = "https://aip.baidubce.com/oauth/2.0/token"
-url_ocr = "https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic"
+if __name__ == "__main__":
+    url_auth = "https://aip.baidubce.com/oauth/2.0/token"
+    url_ocr = "https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic"
 
-api_key = "OqriWbs7YCc57oWPM2RTtTuw"
-secret_key = "P5L5Wz1k75SMgZOGqypNVANNWt4nibm4"
+    api_key = "OqriWbs7YCc57oWPM2RTtTuw"
+    secret_key = "P5L5Wz1k75SMgZOGqypNVANNWt4nibm4"
 
-access_token = get_access_token(url_auth, api_key, secret_key)
+    access_token = get_access_token(url_auth, api_key, secret_key)
 
-final_str = ""
-for x in range(4):
-    final_str += ocr(access_token, url_ocr, "img/{}.png".format(x + 1), "png")
+    final_str = ""
+    for x in range(4):
+        final_str += ocr(access_token, url_ocr, "img/{}.png".format(x + 1), "png")
 
-with open("out.txt", "w", encoding="utf-8") as f:
-    f.write(final_str)
+    print(final_str)
+
+    # with open("out.txt", "w", encoding="utf-8") as f:
+    #     f.write(final_str)
