@@ -2,12 +2,13 @@ import os
 
 command = "ffmpeg -y"
 
-src_path = r"2021-03-14-20-22-19-非浓缩2金.mkv"
-target_path = r"2021-03-14-20-22-19-非浓缩2金.mp4"
+working_path = r"E:\Videos\BiliBiliLive\BililiveRecorder\7953876-宴宁ccccc"
+src_path = r"录制-7953876-20210321-003348-来了 今日无头-.flv"
+target_path = r"录制-7953876-20210321-003348-来了 今日无头-720p-1Mbps.mp4"
 
 is_cut = False
 is_copy = True
-is_compression = False
+is_compression = True
 is_nvenc = True
 
 # hh:mm:ss "00:00:00"
@@ -29,13 +30,14 @@ command += " -i \"{}\"".format(src_path)
 if is_cut:
     command += " -ss {} -to {}".format(start_time, end_time)
 if is_copy:
-    command += " -vcodec copy -acodec copy"
+    command += " -c copy"
 if is_compression:
     command += " -b:v {}k -s {}".format(target_bitrate_k, target_resolution)
 if is_nvenc:
-    command += " -c:v h264_nvenc"
+    command += " -c:v h264_nvenc -c:a copy -b:v {}k".format(target_bitrate_k)
 
 command += " \"{}\"".format(target_path)
 
-# os.system(command)
+os.chdir("{}".format(working_path))
 print(command)
+os.system(command)
