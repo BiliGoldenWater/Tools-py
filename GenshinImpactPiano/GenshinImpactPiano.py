@@ -500,16 +500,16 @@ if __name__ == "__main__":
         ["-1", 0], ["35 +1", 0],
     ]
 
-    piano = GenshinImpactPiano("AlwaysWithYou{}".format(bpm),
+    piano = GenshinImpactPiano("AlwaysWithYou" + str(bpm),
                                bpm,
                                [0, 1],
                                ["notes_1", "notes_2"],
                                [notes_1, notes_2])
 
-    # piano = GenshinImpactPiano()
+    piano = GenshinImpactPiano()
     # piano.load_from_file("SenbonZakura")
-    # piano.load_from_file("GokurakuJodo")
+    piano.load_from_file("GokurakuJodo")
 
-    # time.sleep(3)
-    # piano.play(True)
-    piano.write_to_file()
+    time.sleep(3)
+    piano.play(True)
+    # piano.write_to_file()

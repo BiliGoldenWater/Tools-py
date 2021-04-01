@@ -2,12 +2,12 @@ import os
 
 command = "ffmpeg -y"
 
-working_path = r"E:\Videos\BiliBiliLive\BililiveRecorder\7953876-宴宁ccccc"
-src_path = r"录制-7953876-20210321-003348-来了 今日无头-.flv"
-target_path = r"录制-7953876-20210321-003348-来了 今日无头-720p-1Mbps.mp4"
+working_path = r"E:\Videos\OBS\YuanShen\好看的\猴"
+src_path = r"2021-03-17-21-08-51-迪卢克53w_dmg.mp4"
+target_path = r"2021-03-17-21-08-51-迪卢克53w_dmg-720p-1Mbps.mp4"
 
 is_cut = False
-is_copy = True
+is_copy = False
 is_compression = True
 is_nvenc = True
 
