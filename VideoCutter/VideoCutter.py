@@ -2,20 +2,21 @@ import os
 
 command = "ffmpeg -y"
 
-working_path = r"E:\Videos\OBS\YuanShen\好看的\猴"
-src_path = r"2021-03-17-21-08-51-迪卢克53w_dmg.mp4"
-target_path = r"2021-03-17-21-08-51-迪卢克53w_dmg-720p-1Mbps.mp4"
+working_path = r"E:\Videos\BiliBiliLive\953650-真·凤舞九天-2021-04-12-02-11-连续3金"
+src_path = r"录制-953650-20210412-004755-PS5 原神 60p-.flv"
+target_path = r"录制-953650-20210412-004755-PS5 原神 60p-afterCut-.flv"
 
-is_cut = False
+is_cut = True
 is_copy = False
-is_compression = True
+is_compression = False
 is_nvenc = True
 
-# hh:mm:ss "00:00:00"
-start_time = "00:00:00"
-end_time = "00:00:00"
+# hh:mm:ss "00:00:00.{}".format(int(0 / fps * 1000))
+fps = 60
+start_time = "00:00:44.{}".format(int(15 / fps * 1000))
+end_time = "00:09:25.{}".format(int(12 / fps * 1000))
 target_resolution = "1280*720"
-target_bitrate_k = "1024"
+target_bitrate_k = "8192"
 
 if is_compression:
     is_copy = False
@@ -40,4 +41,4 @@ command += " \"{}\"".format(target_path)
 
 os.chdir("{}".format(working_path))
 print(command)
-os.system(command)
+# os.system(command)

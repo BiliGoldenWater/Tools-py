@@ -1,0 +1,6576 @@
+[
+  {
+    "id": 1,
+    "url": "/db/item/h_900101/?lang=CHS",
+    "name": "翠目猫",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "灵巧而富有智慧的生灵，抱持着与生俱来的优雅与骄傲。\n拥有翠绿双目的灰色猫咪，夜晚在房梁上行走的样子十分优雅。行动时悄无声息，常常在无人察觉的情况下潜入商铺和后厨。\n好在来到壶中洞天后，它们不愁吃喝，老实了不少。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 30
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 2,
+    "url": "/db/item/h_900102/?lang=CHS",
+    "name": "北地犬",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "人类最好的朋友！\n原产于遥远北地的犬类，生着灰白色的厚实毛皮，十分耐寒、性情活泼憨厚。\n不过在气候温暖的壶中洞天，它们可能会表现出慵懒的一面。为了预防缺乏运动导致的肥胖，多陪它们玩玩吧！",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 30
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 3,
+    "url": "/db/item/h_900103/?lang=CHS",
+    "name": "野林猪",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "提瓦特大陆上最活跃的住民之一，广泛活跃于各地的郊野。\n性情倔强的野生动物。由于生存能力极为顽强，在各种林地与荒野都能见到它们的身影。\n哪怕身处安全的壶中洞天，它们也保持着强烈的警惕性，一旦有人接近，它们依然会飞速奔逃。为此派蒙苦恼不已——试着骑乘野林猪的计划，无论如何都没法成功。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 30
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 4,
+    "url": "/db/item/h_900104/?lang=CHS",
+    "name": "蓝翎鹭",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "高贵优雅的鸟类，生着宽阔的双翼与修长的腿。\n在璃月人的诗歌中，会将「君子」形容为这种修长高挑、举止清新的鸟类。既然是「君子」，当然讲究礼节，要与陌生人保持距离。贸然接近会惊动它们，导致它们振翅远飞。\n派蒙询问阿圆，能否追上它们，解释自己没有恶意时，阿圆陷入了长久的沉默。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 30
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 5,
+    "url": "/db/item/h_900105/?lang=CHS",
+    "name": "巡林犬",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "人类最好的朋友！\n作为山林猎人的搭档而被人类驯养的犬类，温顺而敏锐，能够称职地完成看家护院的工作。\n即便壶中洞天绝对安全，它们也会时不时在房门附近徘徊，让人时刻安心。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 6,
+    "url": "/db/item/h_900106/?lang=CHS",
+    "name": "柴犬",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "人类最好的朋友！\n传说是稻妻的将军曾经宠爱的犬类，提瓦特大陆上最受欢迎的宠物犬之一。脾气温柔忠厚，头脑聪明。\n只是有些时候，它们贪吃的本性暴露，会在宅邸的厨房附近转悠，眼巴巴地等待着被投食。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 7,
+    "url": "/db/item/h_900107/?lang=CHS",
+    "name": "黑背猎犬",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "人类最好的朋友！\n古代贵族培育的猎犬之后代，如今以忠诚可靠和平易近人闻名。\n据说它们狩猎的本能并没有完全退化，派蒙观察后认为此言不假，哪怕门外的阿圆打个呵欠，都有可能引发它们的警觉。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 8,
+    "url": "/db/item/h_900108/?lang=CHS",
+    "name": "北地猫",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "灵巧而富有智慧的生灵，抱持着与生俱来的优雅与骄傲。\n全身皮毛以灰白为底色、黑色条纹为辅的优雅猫咪。生自遥远的北地，以性情温顺、亲近人类闻名。\n来到壶中洞天后，这种低调的猫咪常常和北地的同乡一起，躺在窗边晒太阳，日子过得相当悠闲。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 9,
+    "url": "/db/item/h_900109/?lang=CHS",
+    "name": "虎纹猫",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "灵巧而富有智慧的生灵，抱持着与生俱来的优雅与骄傲。\n生得虎虎威风，是十分聪明且好斗的猫咪。擅长向人类撒娇、得到更多的食物，并因此迅速长胖…\n不过壶中洞天的食物充足，同类之间的竞争关系不复存在。久而久之，这种猫咪有可能胖成肉球，还好有失业的同类催促它们锻炼，让它们保持健康。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 10,
+    "url": "/db/item/h_900110/?lang=CHS",
+    "name": "警长猫",
+    "rarity": 3,
+    "comfort_points": "100",
+    "cost_points": "500",
+    "description": "灵巧而富有智慧的生灵，抱持着与生俱来的优雅与骄傲。\n谨慎而机警的猫咪，是猫咪中天生的精湛猎手。由于经常被人类赋予看守仓库防备鼠辈的重任，有着「警长」与「猫咪捕头」的称号。\n不过壶中洞天干净整洁，不会滋生蚊虫与鼠辈，「猫咪捕头」无事可干，清闲下来，转而敦促胖乎乎的同类运动，以转移强烈的责任感。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 11,
+    "url": "/db/item/h_100101/?lang=CHS",
+    "name": "玉面檐枋墙",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "白净如玉的璃月墙面，以「垂香木」制作的檐枋和檐柱作为装饰，有着简约质朴的美感。\n适当留白也是一门学问，退可凸显家具的色彩，进可交由入住者自由装潢。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 12,
+    "url": "/db/item/h_100102/?lang=CHS",
+    "name": "深色木制拱劵墙",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "嵌有拱劵式木制装潢的蒙德墙面，墙裙高度与窗台平齐，这样的设计能有效防止墙上沾染污垢。但木材覆盖的面积宽大，对室内的湿度提出了考验。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 13,
+    "url": "/db/item/h_100201/?lang=CHS",
+    "name": "垂香木传统地板",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "明净的白瓷地砖，甄选翠玦坡的瓷土，经璃月古法巧火烧制而成，简约纹理构成的图样落落大方。\n虽说这种地砖的工艺独特，格外耐受磨损，但釉面材料中有着特殊的成分，因此，请勿使用火元素打扫瓷砖上的污垢。\n风元素…也不行。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 14,
+    "url": "/db/item/h_100202/?lang=CHS",
+    "name": "异色方格地砖",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "铺满异色瓷砖地面，沿房间的对角轴线排布，尤为美观，但室内光照通明时，这样的地板容易让人看花眼，摆放家具时也总是找不到参照物，导致桌椅歪歪斜斜。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 15,
+    "url": "/db/item/h_100301/?lang=CHS",
+    "name": "垂香木方格天花板",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "简约而美观的木制地板，使用了工艺独特的漆面，格外耐受磨损。但这种漆面中含有特殊的成分，请勿使用火元素打扫地板上的污垢。\n风元素…也不行。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 16,
+    "url": "/db/item/h_100302/?lang=CHS",
+    "name": "暗纹方格天花板",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "以方格暗纹为主要图案的天花板，搭配合适的吊灯后相当耐看。\n只是阁楼里生长的蘑菇可能侵蚀木材，导致天花板的方格整块脱落。为防这种倒霉的意外，还需定时进行清扫。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 17,
+    "url": "/db/item/h_100401/?lang=CHS",
+    "name": "双层烛台吊灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "305",
+    "description": "典雅的烛光吊灯，双层设计带来了良好的照明能力，还有着一定的制暖效果，只是替换烧完的蜡烛太过麻烦。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 18,
+    "url": "/db/item/h_100402/?lang=CHS",
+    "name": "八方灯笼-「时运亨通」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "220",
+    "description": "古雅的璃月灯笼，以质感独特的绢帛编织灯罩，刺绣着雅致的花纹，兼顾美感与庄重。据说悬挂此灯，有着「来日诸事顺利」的寓意。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 19,
+    "url": "/db/item/h_100403/?lang=CHS",
+    "name": "六角灯笼-「和气致祥」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "220",
+    "description": "古雅的璃月灯笼，细木骨架的工艺精湛，唯有熟练的工匠才能打造。据说悬挂此灯，有着「和谐安定」的寓意。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 20,
+    "url": "/db/item/h_100404/?lang=CHS",
+    "name": "「南瓜鬼怪狂欢夜」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "305",
+    "description": "南瓜风格的吊灯，光照的色调诡异。\n安装这种吊灯后，请勿冒险邀请骑士团的某位成员来做客，否则可能会有遭受雷击的危险。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "黄色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 21,
+    "url": "/db/item/h_100405/?lang=CHS",
+    "name": "锦缎华灯-「飞阁流丹」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "220",
+    "description": "装潢华美的璃月吊灯，造型独特，宛如天上楼阁。\n安装时需要特别的技巧，细细梳理缎带饰物，从而呈现出雅观的弧线。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 3
+        },
+        {
+          "name": "红色染料",
+          "count": 3
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 22,
+    "url": "/db/item/h_500401/?lang=CHS",
+    "name": "垂香木窗格房门",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "以「垂香木」制成的房门。\n门上设有窗格，花纹古朴美观。\n透过窗格，向造访的对象展示自己的身影，是璃月人作客的礼节之一。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        },
+        {
+          "name": "蓝色染料",
+          "count": 10
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 23,
+    "url": "/db/item/h_500402/?lang=CHS",
+    "name": "骑士团杉木房门",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "以「杉木」制成的房门。相比最早的设计，这种房门多次改进了厚度与重量，坚实可靠，总算能锁住禁闭室的常客了。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 24,
+    "url": "/db/item/h_500403/?lang=CHS",
+    "name": "垂香木转角阶梯",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "转角构型的垂香木阶梯。木材表面经过特殊处理，吸水能力较强，用水清洗后还有着较强的摩擦力，上下楼梯时不易滑倒。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 25,
+    "url": "/db/item/h_500404/?lang=CHS",
+    "name": "杉木转角阶梯",
+    "rarity": 3,
+    "comfort_points": "30",
+    "cost_points": "",
+    "description": "转角构型的杉木阶梯，和骑士团图书馆中的设计相同，有着大段平整的扶手。虽说图书馆已有访客将扶手当成滑梯玩耍的先例，但这样做之前还请考虑自己的体重。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 26,
+    "url": "/db/item/h_1000101/?lang=CHS",
+    "name": "外景磐石-「却笠」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，岩体的纹路瑰丽。\n将它们层层堆叠，想必能构造出巍峨的山峦。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 27,
+    "url": "/db/item/h_1000102/?lang=CHS",
+    "name": "外景磐石-「磈垒」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，格外牢固，由它们构筑的高墙足以抵御魔物的进攻。\n然而壶中洞天一片清静，绝不会有魔物闯入。\n「不信就去看看萍姥姥的壶嘛。」阿圆一本正经地辩解。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 28,
+    "url": "/db/item/h_1000103/?lang=CHS",
+    "name": "外景磐石-「碧峭」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，截面规整，相当稳固。\n用它们搭建高塔前，请征询某位风神的意见，关于如何构建…啊不，规避不妙的造型，他有着丰富的经验。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 29,
+    "url": "/db/item/h_1000104/?lang=CHS",
+    "name": "外景磐石-「眠云」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，低矮而宽大，顶部石面的质地软硬适中。\n以这种山石拼接成辽阔的平台，或许会被仙兽当成卧榻。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 30,
+    "url": "/db/item/h_1000105/?lang=CHS",
+    "name": "外景磐石-「天阶」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，岩体呈矩形，断面光洁。\n据说理水叠山真君钟爱用此类山石搭建台阶，可访仙之人络绎不绝，也未曾找到传闻中的仙家足印，杂乱的鹭鸟爪痕倒有不少。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 31,
+    "url": "/db/item/h_1000106/?lang=CHS",
+    "name": "外景磐石-「玲珑」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "构成壶中洞天基本地貌的山石之一，尺寸和重量相对含蓄。\n除了用作院墙和围栏，也许还能将它当成投掷武器。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 32,
+    "url": "/db/item/h_300301/?lang=CHS",
+    "name": "厚重的图书馆长桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "制作工艺精湛的「萃华木」长桌。可以适用于多种场合。\n但因为这类长桌并不耐脏，所以要时刻注意保持洁净。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 33,
+    "url": "/db/item/h_300302/?lang=CHS",
+    "name": "骑士团的办公桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "254",
+    "description": "以「萃华木」制作的书桌，款式与骑士团的办公桌相同。\n采用的萃华木经过特殊手法烘干，有着软硬适中的质地。手肘放在桌面上时，触感相对柔软，却又不会影响书写的效率。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 34,
+    "url": "/db/item/h_300303/?lang=CHS",
+    "name": "骑士团的会议桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "254",
+    "description": "以「萃华木」制作的长桌，常用于举办会议，商谈要事。\n请注意金属包边的桌角，这种设计的本意是防止骑士们的铠甲对桌体造成损伤，可要是穿着常服与之磕碰，后果就不堪设想了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 35,
+    "url": "/db/item/h_300101/?lang=CHS",
+    "name": "极北桦木折角柜台",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「桦木」制作的柜台，可见于各式店铺和酒馆。\n因为这种柜台略为高大。某些店长会在柜台后方设置垫脚凳，照顾一些身高不足的店员。而另一些没有这种店长照顾的店员，就只能自己想办法了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 36,
+    "url": "/db/item/h_300304/?lang=CHS",
+    "name": "阔面石制炉灶",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "558",
+    "description": "台面宽大的炉灶，能够放下大量食材和餐盘，足以应付热门餐馆的烹饪需求。\n尽管这种炉灶设计巧妙，便于处理木屑和木炭，但摆放时还请注意排烟，以免熏黑屋顶和墙。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 4
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 37,
+    "url": "/db/item/h_300305/?lang=CHS",
+    "name": "便携炉灶",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "558",
+    "description": "紧凑轻便的炉灶，占地面积较小，常被吃虎岩的商人们摆在摊位边使用，相当方便。\n可惜单次烹调的食物较少，未必能满足派蒙的胃口。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 38,
+    "url": "/db/item/h_300306/?lang=CHS",
+    "name": "菱形桌布的长桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "铺设着菱形青绿桌布的蒙德式长桌，据说有着「欢腾」的寓意，通常被用于庆典与聚餐。但人们喝到兴高采烈时，有可能扯下桌布，导致一桌美食倾覆，此后桌布都被牢牢钉在桌面上。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 39,
+    "url": "/db/item/h_300307/?lang=CHS",
+    "name": "露天餐位松木圆桌",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "蒙德常见的松木圆桌，猎鹿人等餐厅的员工将它们设置在室外餐位。\n在和风中享用美食，是一种别致的体验。松木圆桌不惧日晒雨淋，最害怕的反倒是磨爪的猫咪。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 40,
+    "url": "/db/item/h_300308/?lang=CHS",
+    "name": "木纹雅致的书法桌案",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「垂香木」制作的桌案，以初腐工艺的木材打造，木纹雅致，以强调文人的风骨。\n据某位说书人吹嘘，唯有此类桌案上定稿的书画，方可卖出高价。\n不知这种说法和最近万有铺子的桌案促销活动有啥关联。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 41,
+    "url": "/db/item/h_300309/?lang=CHS",
+    "name": "松木方形茶桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「松木」制作的茶桌。\n设计这种茶桌的工匠充分考虑了工艺、成本和市场价之间的关系，努力在其中找到了平衡点。而这种考虑方式，据说也正是一名合格的工匠应该有的思考方式。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 2
+        },
+        {
+          "name": "红色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 42,
+    "url": "/db/item/h_300501/?lang=CHS",
+    "name": "松木客栈柜台",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "101",
+    "description": "以「松木」制作的柜台。\n在这柜台上摆放器物时，似乎有着特别的规矩。某些人相信，遵循这样的规矩能使店面的生意兴隆旺盛。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 43,
+    "url": "/db/item/h_300310/?lang=CHS",
+    "name": "垂香木朱漆圆桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「垂香木」制作的圆桌，有很广泛的适用性。\n据说在璃月的「饭局」中，在这样的圆桌旁围坐时，每个人所坐的位置都有着特别的讲究。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 44,
+    "url": "/db/item/h_400201/?lang=CHS",
+    "name": "北地石制壁炉",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "727",
+    "description": "北地风格的石制壁炉，只需少量木柴就能温暖整个房间。\n不过在风神的护佑下，如今壁炉已经不再是蒙德人过冬的必需品了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 45,
+    "url": "/db/item/h_1100201/?lang=CHS",
+    "name": "古典诗琴-「听风的思绪」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "蒙德诗琴颇负盛名，小巧便携。而此琴的尺寸稍大，是因为采用了更为古典的设计，可以追溯到高塔孤王的年代。\n据说此琴曾被某位吟游诗人暂借，以特殊的和声规则调弦，卓越的演奏者都摸不清它的音律。\n在可靠的琴匠将这把诗琴还原到标准调弦之前，它只能充当室内的摆设。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 46,
+    "url": "/db/item/h_500301/?lang=CHS",
+    "name": "木版画餐厅招牌",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "醒目的餐厅告示牌，放在室内也完全不突兀。\n据说在告示牌上增加某些天下闻名餐馆的名号，能提升用餐的仪式感，增强菜肴的风味层次。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 47,
+    "url": "/db/item/h_400202/?lang=CHS",
+    "name": "松木折屏-「云来帆影」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "以「松木」制作而成的折屏屏风。屏风上的图案是这种屏风的重点所在，并且在某种程度上决定了屏风的总体价格。\n和裕茶馆和万文集舍先后用上这种屏风后，工坊老板也接到了不知名客人的订单，要求把画中的船改成那艘名震云来的死兆星。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 3
+        },
+        {
+          "name": "红色染料",
+          "count": 3
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 48,
+    "url": "/db/item/h_400203/?lang=CHS",
+    "name": "硬木座屏-「绝云晨雾」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "254",
+    "description": "高大的座屏，屏框的木材经过特殊手法处理，分外坚实。\n屏面绘制绝云间的山峦，隐喻「泰然自若」和「不动如山」，商铺和酒楼常用这种屏风镇守店内运势。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 49,
+    "url": "/db/item/h_400101/?lang=CHS",
+    "name": "柔软的会客厅沙发",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "169",
+    "description": "宽大松软的沙发，用料考究。在这种沙发上久坐后，人们可能陷入其中，难以自拔。\n在会客厅摆放这种沙发，请商谈要事的宾客就坐，往往能产生意想不到的效果。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 50,
+    "url": "/db/item/h_400102/?lang=CHS",
+    "name": "「晴空蓝的午后」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "晴蓝色的椅子，坐垫和靠背极其舒适，据说相应材料的加工方法源自枫丹。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 51,
+    "url": "/db/item/h_400103/?lang=CHS",
+    "name": "「坚定意志」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "以「桦木」制作的办公椅。形制设计十分优美。\n但因为椅背顶部也包覆着金属，所以经常有人抱怨，坐在这种椅子上开会时，总是感觉「脑后发凉」。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 52,
+    "url": "/db/item/h_400104/?lang=CHS",
+    "name": "松木餐椅",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "做工简单的松木餐椅，价格尤为低廉，甚至比不过猫尾酒馆新进的酒具。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 53,
+    "url": "/db/item/h_400105/?lang=CHS",
+    "name": "松木靠背茶椅",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「松木」制成，带有靠背的茶椅，扶手的弧度巧妙，确保了舒适的坐姿。\n坐在这种茶椅上听戏品茶，想必能平添几分雅兴。\n据说也有人在这种椅子的副手上晾晒蔬菜，不知道这种做法的效果如何。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 54,
+    "url": "/db/item/h_400106/?lang=CHS",
+    "name": "松木朱漆圆凳",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「松木」制成的圆凳，小巧轻便，高度适中。\n除了坐之外，也有着包括敲钉子、做书垫、晾晒干肉和自卫在内的多种用途。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 55,
+    "url": "/db/item/h_500302/?lang=CHS",
+    "name": "明净的花瓶形壁灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "蒙德城内常用的壁灯，灯火亮度适中，结构简单，更换蜡烛较为方便。\n灯罩的玻璃尤为通透，不易沾染污垢。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 56,
+    "url": "/db/item/h_1100202/?lang=CHS",
+    "name": "恒亮不熄的提灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "散发着温暖灯光的提灯，轻便实用，照明时间极长，但也引起了孩子们的好奇。\n拜骑兵队长的玩笑所赐，关于这种提灯的黑暗童谣正在蒙德城内流传。教会的修女不得不向孩子们解释，提灯里并没有囚禁萤火虫的灵魂。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 57,
+    "url": "/db/item/h_1100203/?lang=CHS",
+    "name": "琉璃亭却砂木立灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "220",
+    "description": "以「却砂木」制作，造型雅致的落地立灯。\n自从琉璃亭的立灯得到顾客好评后，这一形制的灯具就大量涌入市场。\n据说，设计者从一开始就考虑到了这种灯具在各个场合的适用性，所以这种灯具无论是放在酒家、茶楼还是家中都不会显得突兀。\n在这样的适用性下，这种灯具的销售量也十分不错。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 58,
+    "url": "/db/item/h_1100204/?lang=CHS",
+    "name": "天圆灯笼-「明烛兰芳」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "220",
+    "description": "古雅的璃月灯笼，温暖的灯光足以驱散秋日凉意。\n灯芯所用的红烛有着花瓣和草药的成分，燃烧时的芳香沁人心脾。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 59,
+    "url": "/db/item/h_300311/?lang=CHS",
+    "name": "稳固的桦木梳妆台",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「桦木」的梳妆台，低矮的设计使它相当稳定，放置再多东西都不会摇晃。\n遗憾的是化妆台的下方易于积灰，扫帚又很难探进去，打扫时需要将它移开。在某种程度上，也促进了市场中扫帚的自我迭代和升级。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 60,
+    "url": "/db/item/h_300201/?lang=CHS",
+    "name": "图书馆双层书架",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "254",
+    "description": "以「萃华木」制作的书架，顶部可以放置杂物。\n为了方便读者们取读书籍，骑士团特意赠设了这样的书柜。本来打算只放置一些特殊品类的书籍，但因为藏书太多，所以还是将各种品类的书籍摆放了进去。\n这样自由的摆放方式，倒也很符合蒙德人的性格。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 16
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 61,
+    "url": "/db/item/h_300202/?lang=CHS",
+    "name": "萃华木臻品书架",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "169",
+    "description": "以「萃华木」制作的书柜，为了追求美观，书柜上还特意刷上了红漆。\n虽然这样的书柜价格略高，对于某些想要展示自己藏书的人来说，倒是一个不错的选择。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 16
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 62,
+    "url": "/db/item/h_300203/?lang=CHS",
+    "name": "萃华木经济书架",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "169",
+    "description": "以「萃华木」制作的书柜，尺寸虽然不大，但还是能装下不少书本。\n对于无力购买大型书架，却又有相当数量的书籍需要按序摆放的人来说，这种书柜是一种不错的选择。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 16
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 63,
+    "url": "/db/item/h_300204/?lang=CHS",
+    "name": "「易逝于书页翻飞间」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "270",
+    "description": "以「桦木」制作，工艺精湛的书柜，不仅能存放大量的书籍，中线位置还安装了一尊精美的枫丹制落地钟。\n转动的指针，和堆积的书籍，恰巧也象征着已经流逝而去的时间，和永远处理不完的事务。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 16
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 64,
+    "url": "/db/item/h_300205/?lang=CHS",
+    "name": "「司书的宝库」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "169",
+    "description": "图书馆常用的高大书柜，拿取顶层的书籍时，可能需要借助梯子。\n自称来自遥远异乡的某位贵胄的扈从低声叙说，他的主人被司书的魔女征召、帮忙打理这个凌乱的大书柜之后，整个人兴奋了好几天。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 16
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 65,
+    "url": "/db/item/h_300102/?lang=CHS",
+    "name": "开顶杉木货架",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "254",
+    "description": "以「杉木」制作，简单耐用的货架，最上层采用开顶设计，便于拿放大型物品和清扫。\n但这种设计的货架也十分容易积累灰尘和污渍，对于某些喜爱洁净的人来说，如何巧妙快捷地清扫货架是必须要掌握的技巧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 66,
+    "url": "/db/item/h_300103/?lang=CHS",
+    "name": "组合式杉木货柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "338",
+    "description": "以「杉木」制作的半封闭货柜，有着相对阴凉的贮藏环境，适合存放对温度敏感的食物。\n某位炼金术士曾提议在附带的柜子中放置冰史莱姆，以增强货架的贮藏能力，可惜被骑士团以安全因素否决了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 67,
+    "url": "/db/item/h_300104/?lang=CHS",
+    "name": "古典杉木储藏柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「杉木」制作，古典设计的全封闭式储藏柜，常用于保存需要避光的材料和易碎品。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 68,
+    "url": "/db/item/h_300206/?lang=CHS",
+    "name": "朱漆垂香木卷轴书架",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "196",
+    "description": "以「垂香木」制作高大书架，存放古籍和卷轴时尤为方便。\n格栅交错的设计不止是为了美观，还能提高工作效率，据说这型书柜最受喜爱展示自己藏书的书籍收藏者钟爱。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 69,
+    "url": "/db/item/h_300207/?lang=CHS",
+    "name": "朱漆垂香木百宝阁",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "201",
+    "description": "雅致的璃月书柜，以朱红漆面的「垂香木」制成，留有摆放瓷器饰品的空间，常被称为「百宝阁」。\n有道是璃月人的生活中，瓷器与书画同等重要，不可或缺。\n不过甄选瓷器也有不少讲究，还要在合理的位置摆放，建议咨询行家，比如春香窑的莺儿小姐。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 70,
+    "url": "/db/item/h_300208/?lang=CHS",
+    "name": "垂香木商铺立柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「垂香木」制作，形制巧妙的璃月书柜，藏书和摆放杂物皆可，顶部设有桌板。\n常有商铺老板将它用作临时柜台，利用顶部的桌板记账，弯腰探手就能拿放账本，相当便捷。\n只是频繁躬身会对腰部造成损伤，时常要用的东西，还是放在上部的格子为妙。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 71,
+    "url": "/db/item/h_400401/?lang=CHS",
+    "name": "蒙德地毯-「明红的热忱」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "印有骑士团徽章的地毯，红色染料中加入了落落莓的成分。\n布料的质地也相当特殊，据说不会被元素力侵染，不怕火烧和冰冻。\n由于这种地毯十分昂贵，不建议对来路不明的传闻进行求证。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 72,
+    "url": "/db/item/h_400402/?lang=CHS",
+    "name": "蒙德地毯-「不倦的寻索」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "狭长的蒙德式地毯，蓝色染料中加入了钩钩果的成分。\n传说钩钩果的气息在一些生物的认知中与狼群相等，因此这种地毯有着驱除鼠害的神奇功效。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 73,
+    "url": "/db/item/h_400403/?lang=CHS",
+    "name": "客栈地毯-「宾至如归」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "望舒客栈式样的地毯，毯面织物和青色染料皆含有独特的草药成分，不仅能为房间去除湿气，还有着别致的香味，清幽与温馨兼备，让宾客们有种回到家乡的感受。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 2
+        },
+        {
+          "name": "蓝色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 74,
+    "url": "/db/item/h_400404/?lang=CHS",
+    "name": "迎宾地毯-「惠然之顾」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "望舒客栈式样的地毯，辉煌的金色与简约的花纹示人以热情、华贵和落落大方的第一印象，因此被设置在客栈的入口。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 2
+        },
+        {
+          "name": "黄色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 75,
+    "url": "/db/item/h_500303/?lang=CHS",
+    "name": "半旧的圆盾",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "半旧的木制圆盾挂饰，似乎还能拿下来使用。\n蒙德的猎户有在家中摆放防具的传统，他们认为这样能鼓舞后代，延续猎人的斗志。\n但之前某位猎户家的小孩曾将它当成飞镖玩耍，结果一发击倒了隔壁山头的野林猪。从此猎人们就为圆盾的挂饰上锁，防止孩子们发明危险的玩法。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 76,
+    "url": "/db/item/h_500304/?lang=CHS",
+    "name": "半旧的盾牌",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "半旧的木制盾牌挂饰，挡住丘丘人的箭矢应该不成问题。\n这种构型的盾牌通常被骑士装备。西风骑士们接受过严格的训练，绝不会让盾牌下沿的尖锐部分误伤自己。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 77,
+    "url": "/db/item/h_500305/?lang=CHS",
+    "name": "半旧的单手剑",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "半旧的单手剑挂饰，这种形制的武器多年来一直深受欢迎。\n稍作打磨后，也许可以斩开单薄的皮甲。\n通常来说，将破破烂烂的旧剑当作武器，还拿出不错的气势，就会被对手当成高人，不战自胜。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 78,
+    "url": "/db/item/h_500306/?lang=CHS",
+    "name": "风景画-「乡野民居」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "食客们在餐馆一角找到的画作，描绘了普通的乡间民舍。细节有待完善，但运笔的手法娴熟，调色精致而新颖，似乎出自某位大师之手。\n奇怪的是，蒙德城内的画家全都表示这并非自己的画作。难不成是蒙德百货从境外进口的艺术品？",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 79,
+    "url": "/db/item/h_500307/?lang=CHS",
+    "name": "风景画-「远空层云」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "风车管理员在房顶发现的画作，寥寥几笔就将天空与流云的层次勾勒分明，在行家看来价值极高。\n鉴于该画的作者已不知去向，拍卖所得的摩拉被捐给了教会和骑士团，为每年的风花节提供一部分举办经费。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 80,
+    "url": "/db/item/h_500308/?lang=CHS",
+    "name": "风景画-「无名高崖」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "冒险家在野外找到的画作，似乎是对某座山崖的写生。\n此画被认为「色彩的平衡赏心悦目」，遭到一众画家学习与摹拓。\n但碍于魔物的威胁，以及雇佣护卫的高额花销，画家们没法找到这幅画的写生地点，详尽地实地考察。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 81,
+    "url": "/db/item/h_500309/?lang=CHS",
+    "name": "战斗意志旗",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "红底金纹的旗帜，象征着骑士的战斗意志。\n虽说骑士团的精锐正跟随大团长远征在外，但留驻蒙德的力量，依旧能抵御一切来犯之敌。\n特瓦林不算敌人…骑士团不擅长应付闹脾气的老朋友…",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 82,
+    "url": "/db/item/h_500310/?lang=CHS",
+    "name": "纯净灵魂旗",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "白底金纹的旗帜，象征着骑士的纯净灵魂。\n骑士自当恪守戒律，高洁的品格是尽职的必要前提。\n当然，下班后饮酒取乐，属于风神认可的正常需求，不会对纯净的灵魂造成污染。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "黄色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 83,
+    "url": "/db/item/h_500311/?lang=CHS",
+    "name": "骑士团剑盾徽章",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "镌刻着骑士团徽记的盾牌与两柄礼仪大剑组成的墙饰。\n剑盾均以贵重的金属镶边，品相上好，不谈神兵利器，至少不逊于市面流通的高级装备。\n曾有骑士在旧版守则中找到这样一则条文——「如遇紧急情况，请取下剑盾使用」。\n但无论盾牌和大剑，尺寸和重量都太过惊人，普通的骑士根本没法驾驭，不自量力的年轻人们还闹出过惊险的事故。\n因此最新版的骑士守则中，这则条文已被删除。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 12
+        },
+        {
+          "name": "蓝色染料",
+          "count": 6
+        },
+        {
+          "name": "黄色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 84,
+    "url": "/db/item/h_500312/?lang=CHS",
+    "name": "壁挂式记录板",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "尺寸紧凑的记录板。\n除了剪贴纸片，使用粉笔也是不错的选择。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 85,
+    "url": "/db/item/h_500313/?lang=CHS",
+    "name": "壁挂式广告牌",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "小巧的广告牌，常被新兴的商店和酒馆使用。\n想要用有限的画幅传达充足的信息，吸引顾客，对于设计师而言无疑是巨大的挑战。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 86,
+    "url": "/db/item/h_500314/?lang=CHS",
+    "name": "工笔淡彩-「珉林千峰」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "此画的作者已不可考，画中的珉林山水遒丽峻峭，笔法可谓妙绝。\n璃月书画使用的纸张独特，须用轻策庄的翠竹。别国画家试图效仿，但被画卷的纹理桎梏，落笔如败笔，唯有敬而远之。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 87,
+    "url": "/db/item/h_500315/?lang=CHS",
+    "name": "工笔淡彩-「盏中春红」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "希古居在售的挂画，意到笔随，将名贵瓷器与花卉的气韵描绘得淋漓尽致。\n璃月书画使用的彩墨奇巧，须用荻花洲的马尾。别国画家试图效仿，但被颜料的质地困扰，起笔如终笔，唯有摇头作罢。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 8
+        },
+        {
+          "name": "红色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 88,
+    "url": "/db/item/h_500316/?lang=CHS",
+    "name": "工笔淡彩-「雾海叠嶂」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "扇形画幅的璃月挂画，运笔精细却又大气磅礴，挥洒自如，游云惊龙。\n璃月书画使用的毛笔考究，须用璃沙郊的兔毫。别国画家试图效仿，但被笔尖的顿挫磕绊，动笔如停笔，唯有望洋兴叹。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 8
+        },
+        {
+          "name": "黄色染料",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 89,
+    "url": "/db/item/h_1100205/?lang=CHS",
+    "name": "整齐叠放的书本",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "多本实用书籍，整齐地堆叠在一起。\n无论背包中的书籍最初摆放得多规整，跋山涉水卸下行囊后，都容易散落满地，冒险家们每次都要重新整理，十分无奈。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 90,
+    "url": "/db/item/h_1100206/?lang=CHS",
+    "name": "「学者的倦怠」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "少量学术典籍，摆放较为散乱。\n忙碌的学者总是要查阅各种资料，顾不上收拾。除非他们完成了自己的论文，并且一次通过，没有被打回重造。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 91,
+    "url": "/db/item/h_1100207/?lang=CHS",
+    "name": "「书信的礼节」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "书信来往是人际交往中的关键环节，因此写信是一项颇有仪式感的活动，品质良好的羽毛笔和墨水不可或缺。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 92,
+    "url": "/db/item/h_1100208/?lang=CHS",
+    "name": "精巧的沙漏摆件",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "古老而有效的计时工具，小巧精致，安静无声。\n只是每过一定的周期，就需要将它翻转。时间观念淡薄的人总是忘掉这茬，导致它彻底失去功用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 93,
+    "url": "/db/item/h_1100101/?lang=CHS",
+    "name": "花卉瓶栽-「淡蓝的从容」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "云山蓝的观赏花卉，生命力顽强，反倒是花瓶纤薄易碎。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 94,
+    "url": "/db/item/h_1100102/?lang=CHS",
+    "name": "绿植盆栽-「澄澈的清风」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "羽状复叶的绿植盆栽，能为住所带来清新的空气。但不宜在狭窄的房间内放置过多，夜间还须开窗通风。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 95,
+    "url": "/db/item/h_1100209/?lang=CHS",
+    "name": "花卉瓶栽-「盛放的曙红」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "淡曙红的观赏花卉，花期漫长，仿佛四季绽放，永不凋零。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 96,
+    "url": "/db/item/h_1100210/?lang=CHS",
+    "name": "花卉盆栽-「甜蜜的伪装」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "浅烙黄的观赏花卉，虽与甜甜花的色彩相似，但入口后极为苦涩，像是植物的恶作剧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 97,
+    "url": "/db/item/h_1100211/?lang=CHS",
+    "name": "炼金装置-「水火之间」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "169",
+    "description": "神秘的炼金装置，根据不同学者的说法，它同时承担着提纯原料、混合原料与高温反应的功能。\n但也有报告称，以这种装置进行上述任何一项操作，都有发生爆炸的风险。\n由此看来，炼金术真是一门高深的学问。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 98,
+    "url": "/db/item/h_1100212/?lang=CHS",
+    "name": "炼金器件-「尘埃的重量」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "113",
+    "description": "以天平为主的炼金器件组合，主要用于称定材料。据说连灰尘的重量都能称量，但外行很难把控精度。\n专业人士也有可能犯错。之前就有失败的案例——某位绿发炼金术士错用器件，制造出不知名的粉尘，导致自己狂笑不止，又不敢向老师求助，只能狼狈地自行就医。\n据传闻，此后芭芭拉小姐的偶像活动暂停了三天。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 99,
+    "url": "/db/item/h_1100213/?lang=CHS",
+    "name": "纸墨笔砚-「临池学书」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "璃月的「文房四宝」、传统字帖，以及关于画作学问的典籍。\n这些器物与书籍都能在绯云坡买到，价格并不昂贵。\n不少外国画家慕名而来，试图借助它们描摹璃月画作，但大多以失败告终。\n飞云商会的二少爷认为，或许他们还是缺乏历练、沉淀，与某种独一无二的「风骨」吧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 100,
+    "url": "/db/item/h_1100103/?lang=CHS",
+    "name": "绿植盆栽-「松青尺树上」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "338",
+    "description": "葱郁的盆栽，细心打理后，能为室内增添不少生趣，但也要长个心眼，预防虫害。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 101,
+    "url": "/db/item/h_1100214/?lang=CHS",
+    "name": "金色三重烛台",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "三重分支的烛台，涂有金色的漆面，看似贵重，实际上物美价廉。\n放置在书房时，请注意防火。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 4
+        },
+        {
+          "name": "黄色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 102,
+    "url": "/db/item/h_300601/?lang=CHS",
+    "name": "柔风加护的床榻",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "近年来深受喜爱的蒙德床榻，骑士团也将其采用，作为宿舍的标准床铺。\n曾有这样的传言：这种床榻采用了独特的织物，有着柔风的加护，让人更容易快速入睡。\n但考虑到迟到的骑士正在逐渐增多，骑士团不得不更换了床垫和枕头的填充物。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 12
+        },
+        {
+          "name": "蓝色染料",
+          "count": 3
+        },
+        {
+          "name": "红色染料",
+          "count": 3
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 103,
+    "url": "/db/item/h_300602/?lang=CHS",
+    "name": "烟霞云梦榻",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "璃月的传统卧榻，床垫和枕头的用料极其考究。\n因为实在是太舒服，睡上去的时候经常会不由自主地酣睡连绵，容易招致某些时间观念严苛的同伴责备。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "黄色染料",
+          "count": 3
+        },
+        {
+          "name": "红色染料",
+          "count": 3
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 104,
+    "url": "/db/item/h_300105/?lang=CHS",
+    "name": "高大的桦木衣柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「桦木」制作的高大衣柜，在蒙德十分常见，其中的空间容纳四季的衣物都不成问题。\n充足的内部空间也带来了一些问题——考虑到孩子们向葛瑞丝修女倾诉的烦恼，西风教会已委托祈礼牧师，对每个新出厂的衣柜祈福驱邪，保证里面不会藏着鬼怪、臭烘烘的野林猪，以及醉到不省人事的酒鬼父亲。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 105,
+    "url": "/db/item/h_400204/?lang=CHS",
+    "name": "桦木双屉床头柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "以「桦木」制作，蒙德常见的床头柜，较为轻巧，便于打扫卫生死角。\n虽说两个抽屉的容量不大，但存放几本「野猪公主」这样的童话书，当成孩子们的睡前读物，完全不成问题。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 106,
+    "url": "/db/item/h_400205/?lang=CHS",
+    "name": "却砂木金纹床头柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "「却砂木」所制的璃月床头柜，四脚均以金属包边，美观且耐用。\n大型抽屉的空间可观，足以容纳法器用于自卫，以便主人在惊醒之际发起反击。据说这种设计是因历任「天权」的一本传记而走红的。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "蓝色染料",
+          "count": 2
+        },
+        {
+          "name": "红色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 107,
+    "url": "/db/item/h_300106/?lang=CHS",
+    "name": "却砂木金纹衣柜",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "「却砂木」所制的璃月衣柜，规整地划分成十个隔间，每个隔间都有存放特定衣物的讲究。\n某些璃月人重视传统，日常生活中也是如此，像是在履行不成文的契约，璃月港的繁荣离不开这种严谨精神的支撑。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "蓝色染料",
+          "count": 3
+        },
+        {
+          "name": "红色染料",
+          "count": 3
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 108,
+    "url": "/db/item/h_500501/?lang=CHS",
+    "name": "锦缎布帘",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "精致的璃月布帘，分隔室内空间，装潢墙面与天顶的效果良好，能够为住户营造别致的氛围。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 12
+        },
+        {
+          "name": "红色染料",
+          "count": 12
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 109,
+    "url": "/db/item/h_400206/?lang=CHS",
+    "name": "霓裳画帘-「上取红霞」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "霓裳花编织的画帘，有着召来团雀的独特香氛。\n因其用料考究，色彩明丽，常被富贵人家用于装点庭院。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 12
+        },
+        {
+          "name": "黄色染料",
+          "count": 6
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 110,
+    "url": "/db/item/h_400207/?lang=CHS",
+    "name": "花团锦屏-「玉簪金璧」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "华贵的屏风，\n屏上画作深受某位七星的喜爱，因而坊间有此种屏风佑人财运的说法。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 12
+        },
+        {
+          "name": "黄色染料",
+          "count": 6
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 111,
+    "url": "/db/item/h_1100305/?lang=CHS",
+    "name": "贝壳灯罩硬质台灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "精巧的台灯，美观而实用，在蒙德与璃月两地的销量都很不错，并且相当结实，据悉曾有清泉镇民用它砸晕迷路的丘丘人。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 112,
+    "url": "/db/item/h_600501/?lang=CHS",
+    "name": "热闹红火的杂货摊位",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "60",
+    "description": "寻常的杂货摊位，采用了红色的顶棚。\n在蒙德平民的观念中，红色代表奔放与热情；璃月传统则认为，红色有「生意红火」的寓意。\n但要是店主醉酒怠工，再好的兆头都是白搭。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 2
+        },
+        {
+          "name": "红色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 113,
+    "url": "/db/item/h_600502/?lang=CHS",
+    "name": "生意平稳的水果摊位",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "145",
+    "description": "寻常的水果摊位，采用了蓝色的顶棚。\n在蒙德平民的观念中，蓝色代表安定；璃月传统则认为，蓝色有「平平稳稳」的寓意。\n可惜货品的质量并不会被顶棚的色彩影响，而是取决于店主经营的态度。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 2
+        },
+        {
+          "name": "蓝色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 114,
+    "url": "/db/item/h_600503/?lang=CHS",
+    "name": "货真价实的水果摊位",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "175",
+    "description": "寻常的水果摊位，采用了纯白的顶棚。\n在蒙德平民的观念中，白色代表真诚；璃月传统则认为，白色有「货真价实」的寓意。\n在要价公道，绝不欺客这一点上，蒙德和璃月的大部分商人，都是默契的。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 115,
+    "url": "/db/item/h_600504/?lang=CHS",
+    "name": "开放式烘炉工坊",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "190",
+    "description": "宽敞的开放式工坊，带有高效的烘炉与风箱。\n这种工坊通常作为铁匠铺运转，但也能用于矿石冶炼。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "铁块",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 116,
+    "url": "/db/item/h_600505/?lang=CHS",
+    "name": "丰收预兆的水果推车",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "80",
+    "description": "寻常的水果推车，采用了橙白相间的顶棚。\n在蒙德平民的观念中，橙色代表收获；璃月传统则认为，橙色与金色相近，有「通往富贵」的寓意。\n好在西风骑士团与七星对城市的管理相当出色，每年的作物收成都很稳定。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 117,
+    "url": "/db/item/h_600101/?lang=CHS",
+    "name": "多重拱门的蒙德建筑",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "205",
+    "description": "宽广的蒙德建筑，占地面积较大。三个大型拱门的设计有助于人员与货物出入，或许能当成仓库使用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 118,
+    "url": "/db/item/h_600102/?lang=CHS",
+    "name": "悬挑阁楼的蒙德民居",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "255",
+    "description": "高大的蒙德建筑，采用了一定的悬挑结构，顶层和阁楼的面积稍大。\n但阳台的护栏较低，晾晒衣物时请注意安全。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 119,
+    "url": "/db/item/h_600103/?lang=CHS",
+    "name": "不惧潮湿的蒙德公寓",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "245",
+    "description": "常见的蒙德建筑，架高底部的结构能有效缓解底层的潮湿问题。\n虽说占地面积较小，但合理的房间划分保证了可利用的面积，常被当成住宅使用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 120,
+    "url": "/db/item/h_600104/?lang=CHS",
+    "name": "抗击狂风的蒙德旧屋",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "200",
+    "description": "造型独特的蒙德建筑，有着坡度较陡的屋顶。\n据说这种建筑的抗风性能较好，建造流程简洁，历史也极为久远，可以追溯到高塔孤王的年代。\n因此在如今的蒙德，这种建筑并不常见。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 121,
+    "url": "/db/item/h_600301/?lang=CHS",
+    "name": "花鸟喷泉",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "160",
+    "description": "外形优美的喷泉，常见于城中广场与公园。\n一些居民相信「泉水精灵」的传说，会向喷泉里投掷摩拉许愿。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 12
+        },
+        {
+          "name": "铁块",
+          "count": 12
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 122,
+    "url": "/db/item/h_600105/?lang=CHS",
+    "name": "高大阁楼的乡间住宅",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "300",
+    "description": "蒙德乡间的建筑，有着高大的阁楼，足以储藏大量物品。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 123,
+    "url": "/db/item/h_600106/?lang=CHS",
+    "name": "古典乡间住宅",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "195",
+    "description": "蒙德乡间的住宅，保持着古早的设计，设有大尺寸的壁炉。\n如今蒙德气候温暖，壁炉不常使用，因此鸟类总是在烟囱顶部筑巢。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 124,
+    "url": "/db/item/h_600107/?lang=CHS",
+    "name": "袖珍松木小屋",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "160",
+    "description": "紧凑的木制房屋，搭建所需的时间较短，只能供两人暂时休息，驻扎在野外的骑士往往将这种建筑当成临时住所。\n被遗弃的木屋里可能藏着史莱姆和爆爆瓜，开门须谨慎。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 125,
+    "url": "/db/item/h_600506/?lang=CHS",
+    "name": "「行商石门北」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "简易的杂货铺，摆摊收摊极为便捷。只需一顶阳伞遮风挡雨，就能在路边做生意。\n如今璃月的很多富商，当初就是依靠这样的摊位起家的。他们越过石门，沿途做着零散的生意，打通了璃月与蒙德之间的商道。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 126,
+    "url": "/db/item/h_600601/?lang=CHS",
+    "name": "「云游碧水东」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "125",
+    "description": "看似简陋，实则坚固耐用的货棚，设有指路的灯笼。\n荻花洲要道的沿途两侧，时常可见这种货棚，即货运队伍的临时休息点。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 2
+        },
+        {
+          "name": "蓝色染料",
+          "count": 2
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 127,
+    "url": "/db/item/h_600508/?lang=CHS",
+    "name": "卷棚果蔬舆",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "110",
+    "description": "安置在推车上的摊位，可以在移动中贩卖货物。\n热闹时期的璃月港可能有着好几个客流热点，商贩们往往要多次转移，才能争取到最大的收益。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 128,
+    "url": "/db/item/h_600108/?lang=CHS",
+    "name": "干草庐屋",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "125",
+    "description": "以「桦木」为原料，简单架构起来的简单房屋，虽然其貌不扬，但在一般的风雨下应该也不会倾倒。\n在人力和材料有限的情况下，搭建这种房屋也是一种选择。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 129,
+    "url": "/db/item/h_600109/?lang=CHS",
+    "name": "干草货站",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "110",
+    "description": "架高了地基的简单木棚，专为需要干燥储藏的货物而建。\n但要是不幸遭遇水史莱姆，商人和建筑工人们的努力就都白费了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 130,
+    "url": "/db/item/h_600602/?lang=CHS",
+    "name": "干草货棚",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "开放式的简单木棚，只需两人就能快速搭建。\n棚顶的面积较大，能并排放下三辆推车，或者五只野林猪。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 131,
+    "url": "/db/item/h_600110/?lang=CHS",
+    "name": "璃月民居-「餐松饮涧」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "210",
+    "description": "宽敞的璃月住宅，设有单独的厨房和烟囱，传说隐居人士对这种房屋尤为中意。\n靠海的璃月气候温和，无需炉炕抵御严冬。但在设施完备的厨房内烹饪热腾腾的饭菜，而非架起简易炉灶应付三餐，才更符合璃月居民的生活习惯。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 132,
+    "url": "/db/item/h_600111/?lang=CHS",
+    "name": "璃月民房-「梁悬千石」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "205",
+    "description": "稳固的璃月建筑，采用了独特的屋顶设计，能将坠落山石的力道卸去。\n不止在山脚居住的人家，某些商会设置仓库时，也会考虑这种构型的房屋，以提防落石。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 133,
+    "url": "/db/item/h_600112/?lang=CHS",
+    "name": "璃月驿站-「古道茶香」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "185",
+    "description": "设有多个出入口的璃月建筑，面积有限，但适当调整内设摆放后，应对庞大的客流量也不在话下，常作为商道枢纽的驿站使用。长途跋涉的商人在此暂歇，喝上一碗热茶，就能以热情满满的状态继续赶路。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 134,
+    "url": "/db/item/h_600113/?lang=CHS",
+    "name": "璃月民居-「月卧檐上」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "小巧玲珑的璃月民房，设有开放的天台，晾晒衣物和饮酒赏月皆可。\n但上下天台需要通过梯子，醉酒后还请注意安全，避免砸到路过的行人。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 135,
+    "url": "/db/item/h_600114/?lang=CHS",
+    "name": "璃月民居-「笙磬同音」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "双层璃月民房，内部面积远比外观宽敞。寻常家庭在此生活起居，完全不会感到拥挤。若是与其他租客同住在这种房屋中，则能充分锻炼待人接物的技巧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 136,
+    "url": "/db/item/h_600115/?lang=CHS",
+    "name": "璃月商铺-「客聚如潮」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "设有宽大窗口的璃月店铺，这种建筑因万民堂的生意兴隆而走红。\n来往的顾客能在窗口取走菜品，也能进入店内堂食，给了店家灵活的经营选择。\n哪怕某些大厨做菜时用力过猛，点燃了灶台和货架，宽敞的通道与引水渠道也能防止损失进一步扩大。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 137,
+    "url": "/db/item/h_600116/?lang=CHS",
+    "name": "璃月民居-「岁不我与」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "实用的双层璃月民房，底层可作商铺使用，店主则在上层安家。\n经营小本生意。勤勉极为重要，商人们起早贪黑，自然有着就近居住的需求。因此这种居住和经营一体的建筑在璃月随处可见。\n据说当代「天枢星」起家前也曾在住在这种民房中打拼，并以「岁不我与」自勉。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 138,
+    "url": "/db/item/h_600201/?lang=CHS",
+    "name": "三眼守仙牌",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "古称「仙牌」的璃月建筑，通常设置在城镇的入口。虽然没有阻拦结构，但的确具有震慑魔物的功效。\n据说最早的仙牌由岩王帝君亲自营造，凝聚着仙家气力，三层门顶象征着仙人的「三眼」。\n璃月居民们大多坚信这一说法，唯有「往生堂」的某位客卿提出异议，声称仙牌与帝君无关，魔物畏惧的是常在门下站岗的千岩军。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        },
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 139,
+    "url": "/db/item/h_600117/?lang=CHS",
+    "name": "丘丘前哨小屋",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "155",
+    "description": "丘丘风格的棚屋，看似坚固的地堡，实则处处透风，屋顶还留有豁口，没法完全挡雨。\n后经学者马斯克指出，屋顶的豁口能够用来接取雨水，这种房屋的住户可能会在屋内放置大锅。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 140,
+    "url": "/db/item/h_600303/?lang=CHS",
+    "name": "丘丘螺旋瞭望塔",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "丘丘风格的瞭望台，看似简陋，实则具有奇妙的承力结构，似乎用到了早已失传的技艺，遭受落石轰击都不会倒塌。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 141,
+    "url": "/db/item/h_600118/?lang=CHS",
+    "name": "丘丘领袖大殿",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "290",
+    "description": "丘丘风格的大殿，木制阶梯看似脆弱不稳，实则拥有极强的承重能力，被体格硕大的魔物用力踩踏，都不会断裂。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 30
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 142,
+    "url": "/db/item/h_600304/?lang=CHS",
+    "name": "丘丘简易草棚",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "95",
+    "description": "丘丘风格的草棚，看似寒酸，实际上…住在这种草棚里的确很可怜。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 143,
+    "url": "/db/item/h_700201/?lang=CHS",
+    "name": "丘丘双层警戒台",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "95",
+    "description": "丘丘风格的双层警戒台，看似没有威慑力，实则能容纳至多六名射手，拦阻来犯之敌。\n为什么不是七？因为第七名射手很容易被同伴磕到大腿、碰着脑袋、挤破屁股，从而引发不必要的内讧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 144,
+    "url": "/db/item/h_600603/?lang=CHS",
+    "name": "硬顶避雷帐篷",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "110",
+    "description": "尺寸适中的帐篷，安装了金属的顶棚，据说能预防雷击。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 145,
+    "url": "/db/item/h_600604/?lang=CHS",
+    "name": "简易单人帐篷",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "紧凑的帐篷，独行的冒险家也能轻松搭建，就地过夜。\n可惜挡雨的效果不太理想，横风稍大，雨点就会从帐篷侧面灌进来。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 146,
+    "url": "/db/item/h_1200101/?lang=CHS",
+    "name": "蒙德宅邸-「向风的庄园」",
+    "rarity": 5,
+    "comfort_points": "750",
+    "cost_points": "945",
+    "description": "壶中洞天的主要宅邸之一，蒙德风格的奢华别墅，室内空间宽敞，引吭高歌时，回音将从四面八方涌来。\n这座建筑的构造尤为复杂，蒙德境内难寻其影。\n阿圆对此解释道：某位吟游诗人曾突然造访其他仙人的洞天，听说旅行者与他的关系不错，萍姥姥让阿圆提前准备了这座别墅，以备不时之需。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 50
+        },
+        {
+          "name": "黄色染料",
+          "count": 20
+        }
+      ],
+      "time": 36000
+    }
+  },
+  {
+    "id": 147,
+    "url": "/db/item/h_700202/?lang=CHS",
+    "name": "开放式松木橱柜",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "构造简洁的松木橱柜，虽然未设柜门和储藏格，但是能存放许多东西，所以还算好用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "布匹",
+          "count": 2
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 148,
+    "url": "/db/item/h_700203/?lang=CHS",
+    "name": "重型杉木锻造桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "置有锻造工具的长桌，以坚硬的杉木打造。\n在这种长桌上铸造成形的百千武器，凝聚着铁匠毕生的心血。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 149,
+    "url": "/db/item/h_700204/?lang=CHS",
+    "name": "宽大的松木长桌",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "宽大的松木长桌，制作工艺简单，稳定性和承重能力极佳，因此随处可见。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 150,
+    "url": "/db/item/h_600509/?lang=CHS",
+    "name": "「百味四宫釜」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "145",
+    "description": "设有铜火锅的移动摊位。和其他移动摊位不同的是，只要汤底沸腾，食材下锅，就会有顾客循着香气找过来，无需商贩四处转移。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 151,
+    "url": "/db/item/h_700205/?lang=CHS",
+    "name": "大型石制滚磨",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "传统而高效的磨坊，驱动沉重的滚磨需要庞大的力量，通常会搭配水车使用。\n不过轻策庄一带也有这样的逸闻流传——某位驱邪方士云游至此，旧病发作，急需冰雾花的粉末，迫不得已，只能徒手推动滚磨，速度远胜水车的驱动。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 152,
+    "url": "/db/item/h_700206/?lang=CHS",
+    "name": "炼金合成台",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "埋藏着炼金术奥秘的装置，能将各种材料凝聚升华，获得更高阶的产物。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 20
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 153,
+    "url": "/db/item/h_700501/?lang=CHS",
+    "name": "杉木置物架",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "65",
+    "description": "以杉木打造的置物架，常被用于摆放武器，必要时还能客串栅栏，搭建临时防线。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 154,
+    "url": "/db/item/h_700502/?lang=CHS",
+    "name": "杉木武器架",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "采用杉木芯材制作的武器架，摆放着少量武器和防具。顶部平坦，相当稳固，可以当作长椅使用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 155,
+    "url": "/db/item/h_700503/?lang=CHS",
+    "name": "硬木兵戈架",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "经典形制的武器架，被千岩军广泛采用。\n这种武器架结构简单，坚固耐用，便于批量制造，因此各国都开始仿制。\n但千岩军所用的硬木有着考究的处理手法，只在璃月出产，别国仿制品的性能往往要逊色几成。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 156,
+    "url": "/db/item/h_700104/?lang=CHS",
+    "name": "交错放置的杉木货箱",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "40",
+    "description": "牢固的杉木货箱，堆放得较为散乱，但这并不是货运工人偷懒的结果——要是货箱叠放得太过整齐，托举时反而难以下手借力。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 157,
+    "url": "/db/item/h_700105/?lang=CHS",
+    "name": "有序叠放的杉木酒桶",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "有序叠放的杉木酒桶，整洁美观，但上层的酒桶并不太稳定。\n因此装卸时需要留意，切勿失手打开桶盖。美酒入口的风味绝佳，但要是大片沾染到衣物上，清洗的难度可就是噩梦级别了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 158,
+    "url": "/db/item/h_700504/?lang=CHS",
+    "name": "简易货运拖车",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "65",
+    "description": "运送各种货物的拖车，越障能力有限，需要尽量选择平缓的路线。\n至于如何让它更快地更省力地行驶，或许可以考虑，参考「提瓦特游览指南」中的思路，充分利用驯化后的丘丘人…",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 159,
+    "url": "/db/item/h_700107/?lang=CHS",
+    "name": "沉甸甸的干草卷",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "乡间常见的干草卷，重量远比看上去惊人，截面是规整的圆形。\n至冬国的来客百思不得其解——为何蒙德和璃月的居民没有他们引以为傲的机械农具，还能制作出这些草卷？",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 160,
+    "url": "/db/item/h_700505/?lang=CHS",
+    "name": "硬石加固的水井",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "190",
+    "description": "牢固的石制水井。\n鉴于旧式水井的升降装置采用了易损毁的木材，总是被丘丘人偷走，充当旋转烤架，工匠们便改进了设计，更换了坚硬的石制部件。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 8
+        },
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 161,
+    "url": "/db/item/h_700109/?lang=CHS",
+    "name": "竹框酒坛-「琼浆待月往」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "以竹制框架保护的酒坛，璃月各地都有它的身影。\n挑选湿气恰到好处的洞窟，将酒坛封入其中，窖藏多年，便是酒客们口中的玉露琼浆。\n运输过程中，酒坛有磕碰破碎的风险，因此人们常将酒坛和框架一同取出酒窖。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 162,
+    "url": "/db/item/h_700301/?lang=CHS",
+    "name": "绿植盆栽-「苍翠寸泓中」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "125",
+    "description": "种植着高大乔木的盆栽，以天衡山的奇石凿成石盆。\n不宜放置在室内，有撑破屋顶的风险。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "松木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 163,
+    "url": "/db/item/h_700110/?lang=CHS",
+    "name": "玩具摊-「琳琅生趣」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "摆放着各式奇巧玩具的摊位，其中的风筝最受欢迎。\n传说风筝曾被千岩军用于传信，大号的风筝还能将重物拖曳上升，顺风运送。因此，体重较轻且不会使用风之翼的孩子，请务必在家长的陪同下放飞风筝，以防发生意外。\n此外，总务司还有明文规定，在绯云坡和玉京台两地，禁止使用风筝快速升空。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "竹节",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 164,
+    "url": "/db/item/h_700111/?lang=CHS",
+    "name": "花伞铺-「簦下千彩」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "110",
+    "description": "待售的各式花伞。\n部分花伞只适用于遮阳，请勿暴露在雨水中。灯笼的光照可能影响伞面色彩的表现，还需注意色差。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "竹节",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 165,
+    "url": "/db/item/h_600510/?lang=CHS",
+    "name": "果蔬摊-「案上田园」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "60",
+    "description": "出售果蔬的摊位，各式货品被摆放在独立的木筐中，像是划分整齐的田垄。机灵的商贩就以「案上田园」自夸，表示自家的果蔬种类繁多且新鲜。\n考虑到部分顾客有大量囤货的需求，这种设计也支持整筐商品直接端走。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 166,
+    "url": "/db/item/h_700401/?lang=CHS",
+    "name": "酒肆货柜-「会须百杯饮」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "酒肆常用的货柜，放置着多种酒瓶与酒坛。\n璃月乃万商云集之地，酒肆常常出售外国的珍品。不过时常来访的酒客无需查看瓶标，也能选出常喝的酒。\n璃月酒客常将「痛饮百杯」挂在嘴边，震慑外国友人。其实品尝璃月美酒，须用小巧精致的酒盅，百杯的酒量也不算夸张。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 167,
+    "url": "/db/item/h_700402/?lang=CHS",
+    "name": "抗浪结构双层货盘",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "95",
+    "description": "固定在硬木货盘上，等待运输的货品。璃月航运界习惯将大小两个货盘搭配使用，逐渐成为了大陆通行的标准货盘，这样的结构拥有更好的稳定性，无论陆运海运都不会倾覆…\n除非托运方来自南十字船队。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 168,
+    "url": "/db/item/h_700207/?lang=CHS",
+    "name": "双重商摊-「运势层层高」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "60",
+    "description": "有些璃月商户讲究好兆头，将一大一小两张木桌上下叠放，形如台阶，就有「步步高升」之意，还能用面积有限的摊位摆放更多商品。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 169,
+    "url": "/db/item/h_700506/?lang=CHS",
+    "name": "红衣斗笠稻草人",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "设置在田间的稻草人，本意是驱赶鸟兽，防止它们糟蹋庄稼。\n可惜这年头的鸟兽见惯了横冲直撞的丘丘人，普通的稻草人未必能起效。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "红色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 170,
+    "url": "/db/item/h_700113/?lang=CHS",
+    "name": "储物袋-「隐雷退散」",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "敞口放置的储物袋，保存谷物和果蔬皆可。袋体由一种独特的作物「隐雷勿近」制成，如今唯有轻策庄出产，驱虫防潮的效果绝佳。\n由于蚊虫发出震耳的轰鸣，又难以被肉眼捕捉，古时璃月曾给了它们「隐雷」的别称。\n考虑到蚊虫可能传播疫病，抗击蚊虫的确是件重要的事。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 171,
+    "url": "/db/item/h_700507/?lang=CHS",
+    "name": "旧式水井",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "95",
+    "description": "随处可见的旧式水井，采用砖砌结构，能有效保证水质，但升降水桶的木架不太牢固。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 172,
+    "url": "/db/item/h_700508/?lang=CHS",
+    "name": "硬顶水井-「但求虚澈」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "190",
+    "description": "设有顶棚和盖板的水井，意在防止污染，力保井水清澈明净。这种起源于璃月的设计因其实用而传遍大陆。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        },
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 173,
+    "url": "/db/item/h_700509/?lang=CHS",
+    "name": "石狮子像-「天禄」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "50",
+    "description": "辟邪镇妖的石狮子像，位居双像之右。\n传说最初的石狮子像以仙人的形象为摹本，名贵的玉髓为石材，精雕细琢而成，妖邪唯恐避之不及，因此璃月各地都能见到石狮子像，尤以总务司门前的两尊广为人知。\n平时人们都对这些石狮子敬重有加，可往生堂的堂主却丝毫不在意这些传统，总是在石狮子像周围出没，捣鼓各种花样。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 12
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 174,
+    "url": "/db/item/h_700510/?lang=CHS",
+    "name": "石狮子像-「百解」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "50",
+    "description": "辟邪镇妖的石狮子像，位居双像之左。\n传说最初的石狮子像以仙人的形象为摹本，名贵的玉髓为石材，精雕细琢而成，妖邪唯恐避之不及，因此璃月各地都能见到石狮子像。\n传说在碧水河底也有年代久远的两尊石狮子像——某位夜间行船的渔夫被魔物袭击，但见水面寒芒明灭，魔物便争相退去。\n可渔夫逃至望舒客栈，向掌柜述说此事，掌柜笑而不语，只劝他准备一份杏仁豆腐，放在向南的桌案上，权当是拜谢仙人了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 12
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 175,
+    "url": "/db/item/h_700114/?lang=CHS",
+    "name": "果蔬商贩的谨慎",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "零散堆放的果蔬袋，无序摆放的表象下另有门道——部分果蔬可能互相影响，加速腐烂的过程，适当拉开间距，有助于长期销售。\n当然，要是生意兴隆，每天货品脱销，也就不必为这种小事烦恼了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 176,
+    "url": "/db/item/h_700115/?lang=CHS",
+    "name": "果蔬商贩的劳累",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "密集堆放的果蔬袋，并不在乎果蔬之间的互相干扰，大概是商贩太过劳累，实在无暇顾及这些细节了。\n在袋中放置冰雾花的花朵似乎是个省心省力的方案，但一朵冰雾花的成本可能就超过商贩几天的收入了，实在消受不起。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 177,
+    "url": "/db/item/h_700116/?lang=CHS",
+    "name": "硬面彩陶罐",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "常见的陶制瓶罐，以苍风高地出产的黏土为原材料。工匠们为了改进陶罐易碎的缺点，采用了特殊的表面硬化手法，顺带对瓶罐涂上了彩绘。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 178,
+    "url": "/db/item/h_700601/?lang=CHS",
+    "name": "饱经风雨的竹制围篱",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "低矮的竹制围栏，常见于荻花洲一带。\n竹筏是璃月境内运送货物的重要手段，碧水河上竹筏来往的盛景已持续多年。长期使用寿命将尽的竹筏会被拆解，制作成这样的围栏，物尽其用。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 179,
+    "url": "/db/item/h_700602/?lang=CHS",
+    "name": "卸力的松木围栏",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "松木制成的围栏，采用了特殊的组建手法，每次受到冲撞，都能以有限幅度的弯曲抵消冲击，屹立不倒。\n据说这种捆绑松木的手法被侦察骑士代代相传，强调「以巧致胜」。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 180,
+    "url": "/db/item/h_700603/?lang=CHS",
+    "name": "丘丘木制围栏",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "65",
+    "description": "丘丘风格的木制围栏，采用了大块沉重的杉木，格外牢固。木材表面还经过失传古法的处理，能稍稍抵御火元素的侵袭。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 181,
+    "url": "/db/item/h_700604/?lang=CHS",
+    "name": "丘丘图腾围栏",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "65",
+    "description": "悬挂着丘丘人旗帜的围栏，立有极具威慑力的图腾柱，各个木板之间的连接也更为牢固。哪怕手持巨斧和大盾的住民产生内讧，打架斗殴，也无法将这种围栏摧垮。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 182,
+    "url": "/db/item/h_700117/?lang=CHS",
+    "name": "丘丘弓箭标靶",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "丘丘风格的箭靶，靶盘的尺寸适中，配合严密的训练计划，足以锻炼出合格的射手。\n可惜它们的质量不太牢靠，被几枚箭矢击中后，就有可能破碎垮塌。「训练计划」大多也是空谈，练习射术哪有跳舞和睡懒觉欢快？",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 183,
+    "url": "/db/item/h_700118/?lang=CHS",
+    "name": "丘丘带角陶锅",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "巨大的丘丘陶锅，炖煮的食物喂饱数十人。四面的角状饰物可能有着辅助搬运的功能。\n但似乎找不到搭配的炉灶，使用方法成谜。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 184,
+    "url": "/db/item/h_700119/?lang=CHS",
+    "name": "枯木方向标",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "65",
+    "description": "简易的方向标，选用的木材几乎完全流失了水分。常因年久失修而歪斜，有的方向标还会被盗宝团恶意扭转指向，更改位置，引诱过路的人前往埋伏地点，以便劫掠。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 185,
+    "url": "/db/item/h_700701/?lang=CHS",
+    "name": "平整的木制长凳",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "常见的木制长凳，质地较硬，而且没有靠背，久坐后可能对腰部造成损伤。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 186,
+    "url": "/db/item/h_700702/?lang=CHS",
+    "name": "平整的石制长凳",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "常见的石制长凳，表面有着肉眼难以辨别的细密纹理。\n这种长椅冬天太凉，夏天发烫，不过某位冒险团团长当真喜欢它的独特触感。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 187,
+    "url": "/db/item/h_700208/?lang=CHS",
+    "name": "竹制露天茶桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "95",
+    "description": "轻巧而坚实的竹制茶桌，适合露天摆放。据说竹制家具冬暖夏凉，还有「清雅」的风韵。",
+    "recipe": {
+      "items": [
+        {
+          "name": "竹节",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 188,
+    "url": "/db/item/h_700209/?lang=CHS",
+    "name": "木制露天茶桌",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "95",
+    "description": "轻巧而坚固的木制茶桌，常被生意规模不大的餐馆和酒馆使用。虽然做工粗糙，但来往的顾客大多看重的是小饭馆独特的风味，并不会对餐具和桌椅太上心。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 189,
+    "url": "/db/item/h_700302/?lang=CHS",
+    "name": "锁水的花坛",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "方方正正的杉木花坛，常被用于装点街道。\n为了避免木板缝隙的渗水现象，这种花坛采用了特殊的涂料，能够牢牢锁住土壤中的水分。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 190,
+    "url": "/db/item/h_700605/?lang=CHS",
+    "name": "葱郁的葡萄藤",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "茂密的葡萄藤架，每颗果实都有希望汇入将来的美酒，卖出高价…\n但在此之前，葡萄们要有足够的运气，避免被晨曦酒庄的主人做成果汁，就此结束平凡的果实生涯。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 12
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 191,
+    "url": "/db/item/h_700801/?lang=CHS",
+    "name": "铁艺雕花路灯",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "115",
+    "description": "饰有竖置旗帜的金属路灯，在蒙德城内随处可见。\n据说灯杆采用了实心金属，消耗了积压多年的铁矿库存，为铁匠们创造了大量订单。\n毕竟骑士团已将锋芒雪藏，不会频繁对外征战。向冒险家们出售武器的收入有限，铁匠的生活还是有点艰苦。",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "蓝色染料",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 192,
+    "url": "/db/item/h_700802/?lang=CHS",
+    "name": "野外松木路灯",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "85",
+    "description": "以「松木」为材料制作的路灯，在蒙德仍有不少伫立在城外的道路两侧。\n原本野外和山间也有不少路灯，但随着魔物活动愈发频繁，大量路灯曾被摧毁。\n在骑士团努力让魔物的威胁暂且平息后，新的一批路灯也很快被布设在了道路上。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 193,
+    "url": "/db/item/h_700803/?lang=CHS",
+    "name": "退邪灯-「明照左右」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "135",
+    "description": "常见于轻策山的路灯，以坚实的顶棚遮挡灯笼，不惧风雨。\n传闻某位夜叉曾扮作游商，背负行囊，以扁担挑悬两枚灯笼，夜行于凶险之地，引诱妖邪，将其斩除。\n因此时至今日，人们还相信，硬山灯的形貌足以震慑震慑魔物，使它们不敢上前。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "竹节",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 194,
+    "url": "/db/item/h_700804/?lang=CHS",
+    "name": "四合灯-「车笠远来」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "85",
+    "description": "稳固的璃月路灯，灯火尤为醒目，最初被设置在商道四合之地，因此得名「四合灯」。常有久违的友人以此灯为地标重逢。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "竹节",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 195,
+    "url": "/db/item/h_700805/?lang=CHS",
+    "name": "清影灯-「笔锋墨影」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "115",
+    "description": "以「却砂木」为原料制作，璃月特有的路灯「清影灯」。\n灯罩上印有剪影，点亮时从特定角度观望，便能观赏到雅致的图样。某些想要展现自己手艺的工匠，有时会特意对灯罩上的剪影加以设计。\n但考虑到制作成本和销售价格的相对关系，市场上贩卖的灯罩上的图案大多还是以简单的动植物为主。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 4
+        },
+        {
+          "name": "竹节",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 196,
+    "url": "/db/item/h_1000401/?lang=CHS",
+    "name": "垂香木厨房货架",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "70",
+    "description": "以「垂香木」为原料制成的高大货架，上面可以摆放许多东西，常用于忙碌的客栈与酒楼，或富贵人家的厨房。\n虽说每层木板的承重能力都不错，但根据使用事故可知，最上层不可放置大件，尤其是吃饱后的锅巴。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        },
+        {
+          "name": "红色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 197,
+    "url": "/db/item/h_1000402/?lang=CHS",
+    "name": "正逢花期的灌木丛",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "密布浅黄花朵的灌木丛，淡淡的香气能掩盖不少味道，因此其中可能藏匿着走丢的猫，破损的眼罩和鸦羽，还有火花骑士的宝藏。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 198,
+    "url": "/db/item/h_1000403/?lang=CHS",
+    "name": "平平无奇的灌木丛",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "平平无奇的灌木从。\n由于这种灌木能藏匿物件，骑士团曾用它搭建场地，模拟驱逐草史莱姆。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 199,
+    "url": "/db/item/h_1000404/?lang=CHS",
+    "name": "「匿踪之叶」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "较为高大的植株。\n据悉，侦察骑士能利用这种植株制作伪装披风，掩盖自身的行踪，接近到魔物跟前都不被发现，因此它有着「匿踪之叶」的绰号。\n但问起现任的侦察骑士，她表示自己从没听过这种说法。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 200,
+    "url": "/db/item/h_1000405/?lang=CHS",
+    "name": "「青色喷泉」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "叶片色彩尤为苍翠的植株，在大陆各地寻常可见。\n传说它的根须扎得很深，汲取着地下深处的水分，并将有害的杂质去除，是天然的水库，因此常被远行的冒险家捣碎取水，冒险家们也给了它「青色喷泉」的绰号。\n但冒险家分会长塞琉斯曾告诫后辈，它的叶片又苦又辣，还会伤到咽喉，最好不要直接入口咀嚼。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 201,
+    "url": "/db/item/h_1000406/?lang=CHS",
+    "name": "「暖叶篝火树」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "初具规模的植株，发黄的叶片不含多少水分，极易干枯。据说在遥远的过去，这种植物独特的枝干中含有易燃成分，是理想的燃料。它的色彩醒目，易于寻找，帮助过不少冒险家，因而被誉为「暖叶篝火树」。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 202,
+    "url": "/db/item/h_1000407/?lang=CHS",
+    "name": "「晶蝶的栖枝」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "带有明艳花朵的小团灌木，常被移栽修剪，制作成盆栽。\n传说这种植株能够萃取空气中的元素微粒，因此晶蝶也会被它吸引，栖息在它的枝叶中。\n不过花店店主芙萝拉表示，她的实验并没有成功，她怀疑这是某些商人为了炒高盆栽价格散布的假消息。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 203,
+    "url": "/db/item/h_1000408/?lang=CHS",
+    "name": "「南境香风叶」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "生长在温暖地区的植株。\n它的叶片硕大而坚韧，烘干熏烤后会产生独特的香气，酸甜馥郁，偶尔被璃月匠人制作成扇子，还能卖出不错的价格。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 204,
+    "url": "/db/item/h_1000409/?lang=CHS",
+    "name": "「明冠羽叶」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "低矮的植株，叶片形状独特，形如羽毛。\n有些学者声称这种植株起源于明冠山地，因此将它命名为「明冠羽叶」，但没人进行严格的考证，只是将它们制作成书签。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 205,
+    "url": "/db/item/h_1000301/?lang=CHS",
+    "name": "「归风的苍色」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "150",
+    "description": "蒙德常见的树木。据说蒙德境内的树木被和风吹拂多年，其中一些受到了元素微粒的影响，因此有时能在树梢上找到打盹的风史莱姆。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 206,
+    "url": "/db/item/h_1000302/?lang=CHS",
+    "name": "银钩白椰树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "高大的树木，生长在气候温暖湿润的地区，结出的果实外壳坚硬，果肉甜美，厨师们常常用这种果实制作饮品。\n银钩白椰树的树干更为弯曲，这样一来，两个树冠都能得到充分的光照，产出更多果实。\n最近愚人众在高价收购银钩白椰树的种子，不知他们有什么目的。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 207,
+    "url": "/db/item/h_1000303/?lang=CHS",
+    "name": "明沙白椰树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "高大的树木，生长在气候温暖湿润的地区，结出的果实外壳坚硬，果肉甜美，厨师们常常用这种果实制作饮品。\n「七臧山经」一书曾提到，这种树木附近的沙地越是色泽明亮，果实的品质就越高，因此「明沙」一词象征着最高等的椰树。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 208,
+    "url": "/db/item/h_1000304/?lang=CHS",
+    "name": "天衡赤枫-「红叶如灼」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "350",
+    "description": "璃月独有的树木，原产自天衡山一带，叶片赤红如火，被不少文人雅士们赞颂。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 209,
+    "url": "/db/item/h_1000305/?lang=CHS",
+    "name": "奇状盘伏树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "形貌奇特的树木，树干弯曲的弧度过于反常，可能受到了土壤成分的影响，或是被某些奇人用来练手，强行扭转生长的方向。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 210,
+    "url": "/db/item/h_1000306/?lang=CHS",
+    "name": "缃叶却砂树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "叶片泛黄的却砂树。\n不知为何，这株却砂树的叶片始终处在这种偏黄的状态中。\n某些人说，这样的却砂树上能够结出某种白色的果实，能够治疗某些特定的疑难杂症，但这种说法至今都没有得到证实。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 20
+        }
+      ],
+      "time": 21600
+    }
+  },
+  {
+    "id": 211,
+    "url": "/db/item/h_1000201/?lang=CHS",
+    "name": "伏青石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "这种石堆看似小巧，但可能只是地下埋藏巨石的一角，常年低伏草中，因此被璃月居民称为「伏青石」。\n伏青石难以铲除，还有可能挖掘到古董级别的爆爆瓜。因此工人们宁愿修路绕道，也要尽量避开它。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 212,
+    "url": "/db/item/h_1000202/?lang=CHS",
+    "name": "齐身石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "璃月孩童常在这种石块周围蹦跳，玩些有惊无险的游戏。\n据说午夜时分，还会有某个采药姑娘背靠这种石块，反复练习柔软体操。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 213,
+    "url": "/db/item/h_1000203/?lang=CHS",
+    "name": "帝台石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "高大的石块，质地均匀，据说可被技艺精湛的工匠雕琢成嶙峋的假山，玉京台的地基也用到了这种巨石。\n坊间还有传闻，「玉衡星」迅捷的剑法需要历时十年的多轮苦练，其中一轮就是将硕大的帝台石均匀切分，断面须光洁如镜。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 10
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 214,
+    "url": "/db/item/h_700120/?lang=CHS",
+    "name": "「冒险家难逃之重」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "装有少量应急书本的行囊，在外冒险时，书本中的知识可能比摩拉更管用。\n可惜没有艾莉丝小姐这样的作者出手，将海量知识要点总结成几本轻巧的手册，冒险家们只能无奈地承担起大量书本带来的负重。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 4
+        },
+        {
+          "name": "松木",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 215,
+    "url": "/db/item/h_600202/?lang=CHS",
+    "name": "桦木庭院正门",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "45",
+    "description": "以「桦木」打造的蒙德宅邸庭院正门，坚固可靠。设计这扇门的工匠号称连野林猪也撞不开这种门。\n但他之所以敢这么宣称，应该也是考虑到有着这种门的建筑，一般没有机会真的被野林猪冲撞吧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 12
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 216,
+    "url": "/db/item/h_600203/?lang=CHS",
+    "name": "雕花庭院墙尾",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "蒙德宅邸的围墙末段。虽然围墙不一定有用，但首尾相连才算完工，不至于减损庭院的格调。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 217,
+    "url": "/db/item/h_600204/?lang=CHS",
+    "name": "雕花庭院围墙",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "蒙德风格的庭院围墙，似乎挡不住高高跳起的史莱姆。但史莱姆一般不以庭院里的花卉为食，所以问题不大。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 218,
+    "url": "/db/item/h_121212122/?lang=CHS",
+    "name": "套装用家具",
+    "rarity": 1,
+    "comfort_points": "",
+    "cost_points": "",
+    "description": "",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 219,
+    "url": "/db/item/h_362208/?lang=CHS",
+    "name": "震晓云天鼓",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "这种战鼓曾见于璃月的各大关隘，是千岩军的重要装备。敌军来犯时，哨兵擂响战鼓，发出警告，千岩军集结列阵，出征行军时，也能听见它响彻云天的轰鸣。\n如今璃月已无战事，民众安居乐业。随着千岩军改进传讯方式，采用更灵活的指挥体制，战鼓逐渐淡出军阵，成为了节庆时的彩头。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "布匹",
+          "count": 6
+        },
+        {
+          "name": "黄色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 220,
+    "url": "/db/item/h_3750102/?lang=CHS",
+    "name": "璃月古宅-「画阁朱楼」",
+    "rarity": 5,
+    "comfort_points": "750",
+    "cost_points": "1440",
+    "description": "壶中洞天的主要宅邸之一，大气磅礴的璃月古宅，不输玉京台的任何一座建筑。\n据说仙人们的洞天大多从俗就简，很少在这种宅邸中久住。这座古宅是萍姥姥专为风餐露宿已久的旅行者和派蒙准备的。",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 221,
+    "url": "/db/item/h_370109/?lang=CHS",
+    "name": "古宅厢房-「庭中朝暮」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "185",
+    "description": "坐落在宅邸两侧的附属建筑，有「厢房」之称。\n按照璃月的习俗，两座厢房应当朝向正东与正西，一日光阴就以两厢的轴线为走向，影子为尺规，明晰可见。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "松木",
+          "count": 12
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 222,
+    "url": "/db/item/h_370110/?lang=CHS",
+    "name": "古宅凉亭-「夜观七宿」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "185",
+    "description": "这种攒尖凉亭是夏日乘凉，观星吟诗的绝佳去处。\n但壶中洞天的景致秀美，为防某位酒鬼兴起，在凉亭中喝到酩酊大醉，阿圆撤走了茶桌和茶椅。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 18
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 223,
+    "url": "/db/item/h_371205/?lang=CHS",
+    "name": "古宅游廊-「信步前林」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "160",
+    "description": "古宅庭院的游廊，风雨之中亦可安然观景。\n据阿圆所说，在游廊一侧栽种树林，另一侧布置池塘，庭院的景致最为宜人。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 224,
+    "url": "/db/item/h_371206/?lang=CHS",
+    "name": "古宅院墙-「檐下春秋」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "古宅庭院的围墙。\n沿墙栽培花草，方可透过草木枯荣，明晓春秋。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 225,
+    "url": "/db/item/h_371207/?lang=CHS",
+    "name": "古宅墙隅-「一角幽芳」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "古宅围墙的墙角。\n璃月的传统中，墙角适宜种栽梅花，以清雅之气熏陶庭内住户和庭外过客。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 226,
+    "url": "/db/item/h_371208/?lang=CHS",
+    "name": "古宅院墙-「贝联珠贯」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "承接两道院墙的转角。\n将庭院空间有序划分后，就能以有限的面积营造出层次分明的景致，是一门高深的学问。\n可惜阿圆太过贪睡，不愿细说其中的门道。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 227,
+    "url": "/db/item/h_371209/?lang=CHS",
+    "name": "古宅院墙-「阡陌之安」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "承接纵横两道院墙的中枢。\n院墙是旧代阡陌的延伸，并不会导致邻里关系疏远，反而有助于和谐相处——明确的界线也是「契约」的一种，能将「归属模糊」引发的争执大幅减少。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 8
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 228,
+    "url": "/db/item/h_371210/?lang=CHS",
+    "name": "古宅门楼-「云门通达」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "180",
+    "description": "古宅庭院的正门。大门敞开且不设门锁，一方面是因为壶中洞天绝对安全，另一方面，璃月在契约之神的多年管辖之下，早已有了夜不闭户的优良治安。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 229,
+    "url": "/db/item/h_371211/?lang=CHS",
+    "name": "古宅景墙-「阶柳庭花」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "95",
+    "description": "划分庭院空间的景墙，洞门浑圆，有着自然引导视线的效用，为庭中景致增添了不少生趣。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 12
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 230,
+    "url": "/db/item/h_372307/?lang=CHS",
+    "name": "茁壮的萃华树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "200",
+    "description": "常见的树木萃华树，树龄较大，木质坚硬。经过熟练的工匠之手，可被制作成坚固耐用的家具。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 231,
+    "url": "/db/item/h_372308/?lang=CHS",
+    "name": "年幼的萃华树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "常见的萃华树，尚且处在成长期。但此时木质相对松软，易于砍伐，去除水分后可被当作木柴。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 232,
+    "url": "/db/item/h_372309/?lang=CHS",
+    "name": "高大的桦树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "250",
+    "description": "高大的桦木。树叶呈现出金黄的色彩，此时木质最为坚硬，是优秀的木材，不过砍伐它们需要花费不少功夫。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 233,
+    "url": "/db/item/h_372310/?lang=CHS",
+    "name": "初成的桦树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "250",
+    "description": "还在生长中的桦树，树叶呈现出青绿的色彩，代表它的树龄较小，但高度已相当可观。听说它们曾被一些城镇当成行道树种植。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 234,
+    "url": "/db/item/h_372311/?lang=CHS",
+    "name": "金叶盘伏树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "200",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干弯曲的树木，璃月有着「盘伏」的雅称。\n金叶盘伏树有着辉煌的色调，常被用于庭院装潢。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 235,
+    "url": "/db/item/h_372312/?lang=CHS",
+    "name": "青叶盘伏树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干弯曲的树木，璃月有着「盘伏」的雅称。\n青叶盘伏树并不罕见，炎炎夏日中，常有人在它下方避暑乘凉。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 236,
+    "url": "/db/item/h_372313/?lang=CHS",
+    "name": "缃叶盘伏树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干弯曲的树木，璃月有着「盘伏」的雅称。\n某些文人雅士会使用这种缃叶盘伏树的叶片制作墨水染料，然后以这样的染料行诗作画。但在另一群文人雅士的眼中，这种行为只是无才者的小把戏。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 237,
+    "url": "/db/item/h_372314/?lang=CHS",
+    "name": "缃叶剑骨树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干笔挺的树木，璃月有着「剑骨」的雅称。\n因为这类缃叶剑骨树的树干十分笔挺，有的冒险家也会用它来制作木制武器互相搏击，以此锻炼武艺。\n不知道等他们端起了真正的武器，面对着真正的强敌时，这样的锻炼会不会起到作用。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 238,
+    "url": "/db/item/h_372315/?lang=CHS",
+    "name": "金叶剑骨树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干笔挺的树木，璃月有着「剑骨」的雅称。\n在一些有特别讲究的人手中，金叶剑骨树可以制作出上好的纸张。据说，这种纸张有着很强的柔韧性，用来制作纸扇再好不过。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 239,
+    "url": "/db/item/h_372316/?lang=CHS",
+    "name": "青叶剑骨树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于树干笔挺的树木，璃月有着「剑骨」的雅称。\n青叶剑骨树遍布山野，常被用于切削板材，搭建房屋或商船。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 240,
+    "url": "/db/item/h_372317/?lang=CHS",
+    "name": "轻策鹭顶竹",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "轻策山间的翠竹。\n这种翠竹的枝叶形貌独特，下密上疏，如鹭鸟盘旋山间，因而得名「鹭顶竹」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 241,
+    "url": "/db/item/h_372318/?lang=CHS",
+    "name": "轻策行云竹",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "100",
+    "description": "轻策山间的翠竹。\n这种翠竹常有百年高龄，高耸入云，因而得名「行云竹」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 242,
+    "url": "/db/item/h_372319/?lang=CHS",
+    "name": "轻策寒玉竹",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "轻策山间的翠竹。\n这种翠竹的质感清寒如玉，因而得名「寒玉竹」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 243,
+    "url": "/db/item/h_372410/?lang=CHS",
+    "name": "青衫景铄",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "璃月诗人将随处可见的荒草誉为「青衫」。\n繁茂葱郁的草木象征着宜人的气候与地脉的稳定，是盛世画卷必不可少的一角景观。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 244,
+    "url": "/db/item/h_372411/?lang=CHS",
+    "name": "青衫问寒",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "璃月诗人将随处可见的荒草誉为「青衫」。\n草木渐转枯黄，预示着天气正在转凉。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 245,
+    "url": "/db/item/h_372412/?lang=CHS",
+    "name": "青衫自酌",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "璃月诗人将随处可见的荒草誉为「青衫」。\n青衫转红如醉酒，据说是土壤中的火元素在作祟，遵循这种迹象，或许能追查到炽热骗骗花。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 246,
+    "url": "/db/item/h_372413/?lang=CHS",
+    "name": "「绿野的盛宴」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "相对少见的植株，圆润厚实的叶片繁多，几乎没有任何气味，洗净后可以用来盛放食物。只需一株这样的植物，就能为一队冒险者提供餐盘。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 247,
+    "url": "/db/item/h_372414/?lang=CHS",
+    "name": "「绿野的侍者」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "相对少见的植株，叶片圆润而厚实，几乎没有任何气味，洗净后可以用来盛放食物。这种植物被乐观的冒险者比喻成「提供盘子的餐厅侍者」，深受喜爱。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 248,
+    "url": "/db/item/h_372415/?lang=CHS",
+    "name": "金叶珍枝树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于浅色树干的树木，璃月有着「珍枝」的雅称。\n金叶珍枝树的枝干十分强韧，常被能工巧匠制作成饰品或家具。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 249,
+    "url": "/db/item/h_372416/?lang=CHS",
+    "name": "缃叶珍枝树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于浅色树干的树木，璃月有着「珍枝」的雅称。\n缃叶珍枝树所制成的木浆十分浓厚，能制作出大量的纸张，市场上的廉价纸张大多为此种木材所制。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 250,
+    "url": "/db/item/h_372417/?lang=CHS",
+    "name": "败叶珍枝树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于浅色树干的树木，璃月有着「珍枝」的雅称。\n败叶珍枝树临近枯萎，树干中的水分大多流失，但作为薪柴相当合适，还有一定的香薰效果。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 251,
+    "url": "/db/item/h_372418/?lang=CHS",
+    "name": "青叶珍枝树",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "除了少有的名贵树木，璃月人更习惯以形貌为树木冠以统称，而不在意特定的树种。对于浅色树干的树木，璃月有着「珍枝」的雅称。\n青叶珍枝树的枝干无需锐利的刀斧就能斩断，所以不少冒险家们会用其来制作各类简易工具。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 252,
+    "url": "/db/item/h_372419/?lang=CHS",
+    "name": "丛生栌青",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，叶片黄绿相间，有「栌青」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 253,
+    "url": "/db/item/h_372420/?lang=CHS",
+    "name": "郁生栌青",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，枝叶分外繁茂，似乎凝聚着大地的灵气。叶片黄绿相间，有「栌青」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 254,
+    "url": "/db/item/h_372421/?lang=CHS",
+    "name": "丛生彤丹",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，叶片朱红如染，有「彤丹」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 255,
+    "url": "/db/item/h_372422/?lang=CHS",
+    "name": "郁生彤丹",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，枝叶分外繁茂，似乎凝聚着大地的灵气。叶片朱红如染，有「彤丹」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 256,
+    "url": "/db/item/h_372423/?lang=CHS",
+    "name": "丛生蝶绿",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，叶片生机盎然，有「蝶绿」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 257,
+    "url": "/db/item/h_372424/?lang=CHS",
+    "name": "郁生蝶绿",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "挺拔的植株，枝叶分外繁茂，似乎凝聚着大地的灵气。叶片生机盎然，有「蝶绿」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 258,
+    "url": "/db/item/h_372425/?lang=CHS",
+    "name": "飞泉锦簇",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "枝叶锦簇的植株，叶片苍翠欲滴，有「飞泉」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 259,
+    "url": "/db/item/h_372426/?lang=CHS",
+    "name": "芽绿锦簇",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "枝叶锦簇的植株，叶片青翠茂盛，有「芽绿」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 260,
+    "url": "/db/item/h_372427/?lang=CHS",
+    "name": "梧枝锦簇",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "枝叶锦簇的植株，叶片青蓝相融，有「梧枝」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 261,
+    "url": "/db/item/h_372428/?lang=CHS",
+    "name": "双生芽绿",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "并生的两丛植株，叶片青翠茂盛，有「芽绿」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 262,
+    "url": "/db/item/h_372429/?lang=CHS",
+    "name": "双生素馨",
+    "rarity": 2,
+    "comfort_points": "10",
+    "cost_points": "50",
+    "description": "并生的两丛植株，叶片的色泽别致，有「素馨」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 263,
+    "url": "/db/item/h_372430/?lang=CHS",
+    "name": "「绿野的坐席」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "圆滚滚的绿植，极易连根拔起，枝干与叶片相当柔软。将两丛植株叠放在一起，就能当成坐垫使用。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 264,
+    "url": "/db/item/h_372431/?lang=CHS",
+    "name": "「猎人的暗哨」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "较为高挑的植株，茎干较多，便于攀爬，老练的蒙德猎人常常躲藏其中，暗中窥探猎物的动向。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 265,
+    "url": "/db/item/h_372432/?lang=CHS",
+    "name": "「猎品的斗篷」",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "50",
+    "description": "枝叶繁茂的植株，是天然的视觉屏障。\n在与猎人的周旋中，一些机灵的走兽开始学习对方，躲藏在这种植株里，像是将它当成了伪装的斗篷，给不少新人造成了巨大的麻烦。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 266,
+    "url": "/db/item/h_372204/?lang=CHS",
+    "name": "照月石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "相传某位诗人在月圆之夜登高，见月光明照于山石之上，山石无暇如玉，因而称其为「照月石」。此后这个名字就成了璃月人对山石的众多雅称之一。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 267,
+    "url": "/db/item/h_372205/?lang=CHS",
+    "name": "侵霞石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "「七臧山经」记述，天遒谷曾有一种奇石，长久被晚霞映照，霞光色彩映入其中，是为「侵霞石」。不过书中的传说无人证实，如今这个名字被人们用于泛指各种褐色的岩石。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 268,
+    "url": "/db/item/h_372206/?lang=CHS",
+    "name": "映红石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "关于褐色岩石的另一段古话是，翠玦坡一带曾生长着大量烈焰花，终日被火光映照的石块，也染上了暗红偏褐的色彩，得名「映红石」。\n不过冒险家们收集到的样本显示，爆炎树附近的岩石也没有发生明显的变化，以烈焰花的光热，大概还不足以完成传说中改变地貌色彩的壮举？",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 269,
+    "url": "/db/item/h_372207/?lang=CHS",
+    "name": "金声石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "起源于黑岩厂的传闻声称，这种巨石中藏有大量黄金，「以槌击之，其音如钟」，因而得名「金声石」。但以普遍性理论而言，它与其他石头并没有本质区别。\n总务司调查此事后发现，原来传闻的源头是矿工们为自勉所作的一首诗。不知为何，这首诗在流传中改变了本意，让不少人信以为真。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 270,
+    "url": "/db/item/h_372208/?lang=CHS",
+    "name": "金芽石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "由于金声石的传闻引发了一阵掘石的热潮，与其质地相似的岩石也颇受关注。比如这种相对较小的石块，就被认为含有「黄金的原石」，因而被称为「金芽石」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 271,
+    "url": "/db/item/h_372209/?lang=CHS",
+    "name": "启夏石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "说书人们常常提到这种岩石，道是璃月边境，会被夏日第一缕阳光映照的褐色岩石，即「启夏石」，有着划分季节的寓意。\n但这个概念太过玄乎，对应的石头也没什么特别之处，所以没人在意，只是将它列为对褐色岩石的雅称之一。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 272,
+    "url": "/db/item/h_372210/?lang=CHS",
+    "name": "兵阵石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "紧密簇拥的岩石，似乎呈现出某种排布的规律，如同列兵布阵。因而有了「兵阵石」的称谓。这些岩石最早被发现于千岩军的营地附近，久而久之，就有了千岩军意志惊人，「磐石随之而动」的佳话。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 273,
+    "url": "/db/item/h_372211/?lang=CHS",
+    "name": "纤拳石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "传说帝君在天衡山的险路布下这种顽石，阻挡来犯之敌。某位魔神麾下的大将率军经过，见路中石，曰「纤纤而不若吾之拳」，勒令部下继续前行。不料车轮无法碾碎这种顽石，失控倾覆，这位大将坠落山间，狼狈败走。而他的狂言成就了这种顽石「纤拳石」的雅称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 274,
+    "url": "/db/item/h_372212/?lang=CHS",
+    "name": "临渊石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "老道的矿工能根据脚下石块的色彩，判断自己在地下所处的深度。一旦出现这种石块，就说明层岩巨渊近在眼前，因此它有了「临渊石」的称号。\n但据说最近地脉的状况不稳，因此临渊石开始在大陆各地出现，矿工们的经验也没法派上用场了。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 275,
+    "url": "/db/item/h_372213/?lang=CHS",
+    "name": "渴泽石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "传说这种石块原本只出现在缺水的地区，譬如须弥的沙漠，但在璃月各地都能找到相应的岩石。\n鉴于没人会从千里迢迢之外将岩石搬运而来，只为戏弄民众取乐，一些较真的学者结合临渊石的现象，提出了「地脉迁移」的大胆假设。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 276,
+    "url": "/db/item/h_372214/?lang=CHS",
+    "name": "炉灰石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "这种岩石较为实用，外观上与其他褐色石块没什么区别 ，但被高温加热后，会表现出黏软的特质，吸附木柴燃烧后的炭灰，有助于厨房的清洁。曾有人将这种岩石制作成炉膛，它也因此获称「炉灰石」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 277,
+    "url": "/db/item/h_372215/?lang=CHS",
+    "name": "布衣石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "蒙德和璃月都相当常见的岩石，因其色彩与璃月古时热销的一种布料相近，而得名「布衣石」。无独有偶，布衣所代表的平民们也会以磐石的坚强自勉。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 278,
+    "url": "/db/item/h_372216/?lang=CHS",
+    "name": "卧苔石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "看似平平无奇的石头，但表面有着细密的沟壑，积留雨水，格外潮湿，久而遍生青苔，因此得名「卧苔石」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 279,
+    "url": "/db/item/h_372217/?lang=CHS",
+    "name": "断云石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "这种石块曾见于山尖危崖，被游人比作云层断裂的残片，即「断云石」。但孩子们听闻这则典故后千般好奇——若是云层断片可为磐石，那云上是否有奇人隐居？",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 280,
+    "url": "/db/item/h_372218/?lang=CHS",
+    "name": "穿涧石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "相传早年，山野深处曾有湍急的溪流，阻挡拓荒者的脚步。人们搬运石块置于水中，以便涉水通行。此后表面平坦的石块就获得了「穿涧石」的别称。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 281,
+    "url": "/db/item/h_372219/?lang=CHS",
+    "name": "无典石",
+    "rarity": 3,
+    "comfort_points": "20",
+    "cost_points": "35",
+    "description": "璃月的文人富有生活情趣，会尽可能为每种事物起一个雅号。\n但这种石头实在过于普通，查遍典籍，听遍坊间传闻，也找不到与它有关的故事，因此称之为「无典石」。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 282,
+    "url": "/db/item/h_372220/?lang=CHS",
+    "name": "仙家琥珀-「刚烈自见」",
+    "rarity": 4,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "传说中源自仙家的琥珀，散落在璃月各地。这种琥珀曾有镇邪之力。历经风雨打磨，呈现出剑锋与枪尖的形貌。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 283,
+    "url": "/db/item/h_372221/?lang=CHS",
+    "name": "仙家琥珀-「画牢锁伥」",
+    "rarity": 4,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "传说中源自仙家的琥珀，尚存于琥牢山一带。心怀不轨之辈，会被这种琥珀所筑的牢笼囚禁。",
+    "recipe": {
+      "other": "洞天百宝"
+    }
+  },
+  {
+    "id": 284,
+    "url": "/db/item/h_371105/?lang=CHS",
+    "name": "「牧歌与风车」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "185",
+    "description": "蒙德标志性的风车，巨大的叶片迎风转动，即可产生充沛的能量。\n某位炼金术士研究了至冬国的典籍后，认为可以用雷火两种史莱姆组建机关，储存风车能量。但就算他的实验成功，骑士团也不会批准这种危险的方案。",
+    "recipe": {
+      "items": [
+        {
+          "name": "桦木",
+          "count": 24
+        },
+        {
+          "name": "白铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 285,
+    "url": "/db/item/h_100406/?lang=CHS",
+    "name": "垂缨花灯-「大道锦绣」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "305",
+    "description": "典雅精致的花灯，灯杆也以朱漆装饰。树立在道路两侧时，不仅分外美观，还有「前程似锦」的寓意。",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "布匹",
+          "count": 6
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 286,
+    "url": "/db/item/h_362209/?lang=CHS",
+    "name": "花灯戏台-「笙歌鼎沸」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "175",
+    "description": "璃月风格的舞台，以两种色泽的木材搭建牢固的地面，花灯作为点缀。\n无论传统的戏剧和说书，还是燥热的新兴艺术，都能在这种舞台上完美展现自身的精髓。",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 6
+        },
+        {
+          "name": "却砂木",
+          "count": 6
+        },
+        {
+          "name": "红色染料",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 287,
+    "url": "/db/item/h_200101/?lang=CHS",
+    "name": "(test)墙面1",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "墙面1",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 10
+        },
+        {
+          "name": "红色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 288,
+    "url": "/db/item/h_200102/?lang=CHS",
+    "name": "(test)墙面2",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "墙面2",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 10
+        },
+        {
+          "name": "黄色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 289,
+    "url": "/db/item/h_200201/?lang=CHS",
+    "name": "(test)地板1",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "地板1",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 10
+        },
+        {
+          "name": "蓝色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 290,
+    "url": "/db/item/h_200202/?lang=CHS",
+    "name": "(test)地板2",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "地板2",
+    "recipe": {
+      "items": [
+        {
+          "name": "却砂木",
+          "count": 10
+        },
+        {
+          "name": "红色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 291,
+    "url": "/db/item/h_200301/?lang=CHS",
+    "name": "(test)天花板1",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "天花板1",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        },
+        {
+          "name": "黄色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 292,
+    "url": "/db/item/h_200302/?lang=CHS",
+    "name": "(test)天花板2",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "天花板2",
+    "recipe": {
+      "items": [
+        {
+          "name": "垂香木",
+          "count": 10
+        },
+        {
+          "name": "蓝色染料",
+          "count": 5
+        }
+      ],
+      "time": 14400
+    }
+  },
+  {
+    "id": 293,
+    "url": "/db/item/h_200401/?lang=CHS",
+    "name": "(test)吊灯1",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "吊灯1",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 20
+        },
+        {
+          "name": "桦木",
+          "count": 10
+        },
+        {
+          "name": "红色染料",
+          "count": 15
+        }
+      ],
+      "time": 28800
+    }
+  },
+  {
+    "id": 294,
+    "url": "/db/item/h_200402/?lang=CHS",
+    "name": "(test)吊灯2",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "吊灯2",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 20
+        },
+        {
+          "name": "桦木",
+          "count": 10
+        },
+        {
+          "name": "黄色染料",
+          "count": 15
+        }
+      ],
+      "time": 28800
+    }
+  },
+  {
+    "id": 295,
+    "url": "/db/item/h_700139/?lang=CHS",
+    "name": "(test)测试用烧烤炉",
+    "rarity": 1,
+    "comfort_points": "1",
+    "cost_points": "",
+    "description": "测试用烧烤炉",
+    "recipe": {
+      "items": [
+        {
+          "name": "铁块",
+          "count": 30
+        }
+      ],
+      "time": 28800
+    }
+  },
+  {
+    "id": 296,
+    "url": "/db/item/h_10000003/?lang=CHS",
+    "name": "枫原万叶",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 297,
+    "url": "/db/item/h_10000006/?lang=CHS",
+    "name": "烟绯",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 298,
+    "url": "/db/item/h_10000014/?lang=CHS",
+    "name": "优菈",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 299,
+    "url": "/db/item/h_10000015/?lang=CHS",
+    "name": "琴",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 300,
+    "url": "/db/item/h_10000016/?lang=CHS",
+    "name": "丽莎",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 301,
+    "url": "/db/item/h_10000020/?lang=CHS",
+    "name": "芭芭拉",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 302,
+    "url": "/db/item/h_10000021/?lang=CHS",
+    "name": "凯亚",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 303,
+    "url": "/db/item/h_10000022/?lang=CHS",
+    "name": "迪卢克",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 304,
+    "url": "/db/item/h_10000023/?lang=CHS",
+    "name": "雷泽",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 305,
+    "url": "/db/item/h_10000025/?lang=CHS",
+    "name": "安柏",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 306,
+    "url": "/db/item/h_10000026/?lang=CHS",
+    "name": "温迪",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 307,
+    "url": "/db/item/h_10000027/?lang=CHS",
+    "name": "香菱",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 308,
+    "url": "/db/item/h_10000029/?lang=CHS",
+    "name": "北斗",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 309,
+    "url": "/db/item/h_10000030/?lang=CHS",
+    "name": "行秋",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 310,
+    "url": "/db/item/h_10000031/?lang=CHS",
+    "name": "魈",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 311,
+    "url": "/db/item/h_10000032/?lang=CHS",
+    "name": "凝光",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 312,
+    "url": "/db/item/h_10000033/?lang=CHS",
+    "name": "可莉",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 313,
+    "url": "/db/item/h_10000035/?lang=CHS",
+    "name": "钟离",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 314,
+    "url": "/db/item/h_10000036/?lang=CHS",
+    "name": "菲谢尔",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 315,
+    "url": "/db/item/h_10000037/?lang=CHS",
+    "name": "班尼特",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 316,
+    "url": "/db/item/h_10000038/?lang=CHS",
+    "name": "达达利亚",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 317,
+    "url": "/db/item/h_10000041/?lang=CHS",
+    "name": "诺艾尔",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 318,
+    "url": "/db/item/h_10000042/?lang=CHS",
+    "name": "七七",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 319,
+    "url": "/db/item/h_10000043/?lang=CHS",
+    "name": "重云",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 320,
+    "url": "/db/item/h_10000044/?lang=CHS",
+    "name": "甘雨",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 321,
+    "url": "/db/item/h_10000045/?lang=CHS",
+    "name": "阿贝多",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 322,
+    "url": "/db/item/h_10000046/?lang=CHS",
+    "name": "迪奥娜",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 323,
+    "url": "/db/item/h_10000047/?lang=CHS",
+    "name": "莫娜",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 324,
+    "url": "/db/item/h_10000048/?lang=CHS",
+    "name": "刻晴",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 325,
+    "url": "/db/item/h_10000049/?lang=CHS",
+    "name": "砂糖",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 326,
+    "url": "/db/item/h_10000050/?lang=CHS",
+    "name": "辛焱",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 327,
+    "url": "/db/item/h_10000051/?lang=CHS",
+    "name": "罗莎莉亚",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 328,
+    "url": "/db/item/h_10000052/?lang=CHS",
+    "name": "胡桃",
+    "rarity": 1,
+    "comfort_points": "100",
+    "cost_points": "1200",
+    "description": "家园入住角色",
+    "recipe": {
+      "other": ""
+    }
+  },
+  {
+    "id": 329,
+    "url": "/db/item/h_700121/?lang=CHS",
+    "name": "结实的木桶",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "带有提绳的木桶，双重铁箍的设计相当结实，有着广泛的用途。\n只是这种木桶常常随着行走的脚步前后摇晃，打湿提桶人的鞋子。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 330,
+    "url": "/db/item/h_700303/?lang=CHS",
+    "name": "转移壅土的木桶",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "装有土壤的木桶。\n挖掘矿洞和建造房屋的工程中，往往会产生大量无用的泥土。有时推车不便进入施工现场，就需要使用木桶将壅土运走。\n某些富有生活情趣的工人会直接在这种木桶里种植花草，将它们当成盆栽。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 331,
+    "url": "/db/item/h_700606/?lang=CHS",
+    "name": "初成的葡萄藤",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "95",
+    "description": "相对低矮的葡萄藤架。\n据说葡萄藤的高度与阳光和雨水等因素有关，影响着果实的质量。因此合格的管理者会对不同种类的葡萄进行区分管理，严格把控葡萄藤的高度。关于这方面的技术，晨曦酒庄一直处于领先地位。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 332,
+    "url": "/db/item/h_700607/?lang=CHS",
+    "name": "简易木制围栏",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "强调搭建效率的围栏，勉强能拦住大型走兽。\n不过这种围栏所用的木板轻巧，当真遇见危险时，拆下木板当成木棍使用，似乎也能起到一定的威慑作用？",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 333,
+    "url": "/db/item/h_700608/?lang=CHS",
+    "name": "施工过半的围栏",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "搭建过半的简易围栏，只差一根木杆就能完工，无需花费多少时间。一般来说，工程中断的原因是魔物来袭，工人们紧急撤离了现场。再度归来时，用来收尾的木杆往往会被魔物们掳走，围栏的建造也就不了了之了。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 334,
+    "url": "/db/item/h_700122/?lang=CHS",
+    "name": "高耸的木杆",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "建造木棚的基本结构，有时也会被当成醒目的标志，用于标明建筑的关键位置。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 335,
+    "url": "/db/item/h_371106/?lang=CHS",
+    "name": "工程暂驻点",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "145",
+    "description": "简易的木棚，能够放置不少器具和施工材料，防止长期雨淋影响建材的质量，从而减少安全隐患。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 336,
+    "url": "/db/item/h_700123/?lang=CHS",
+    "name": "成捆的木材",
+    "rarity": 2,
+    "comfort_points": "30",
+    "cost_points": "35",
+    "description": "预先切割的木材，价格低廉，被扎成一捆以便运输。需要生火取暖时，这些木材也能充当优质的薪柴。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 43200
+    }
+  },
+  {
+    "id": 337,
+    "url": "/db/item/h_700124/?lang=CHS",
+    "name": "防雨的杉木货箱",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "牢固的杉木货箱，顶部铺设了防水布料，用以维持干燥的储存环境。\n这种货箱的容积可观，足以装载大量货物，代价是重量惊人，需要花费大量人力运输。\n据说其中一些货箱设有内部的锁扣，野外行动的工人们遭遇魔物时，可以藏入其中自保，让魔物们无可奈何。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 338,
+    "url": "/db/item/h_700511/?lang=CHS",
+    "name": "乡间的茶摊",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "60",
+    "description": "摆放着各类茶具的摊位。每型茶具都能发挥特定茶叶的风味，其中的门道深受茶水摊主们的重视。\n有些茶水摊主还在钻研沏茶技巧的同时，学习了说书的本领，一人身兼多职。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 339,
+    "url": "/db/item/h_700512/?lang=CHS",
+    "name": "「冒险家的随身秘宝」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "装有各种工具和书本的行囊。在外冒险时，这些工具是克服险境的关键。不少成功的冒险家都有着他人难以驾驭，自己却能灵活运用的工具，并将它们视为自己的秘宝。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 340,
+    "url": "/db/item/h_700125/?lang=CHS",
+    "name": "石制盏形水池",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "由光洁的石材打造的盏形水池。\n据说这种水池结合了工匠们的巧妙设计，和祈礼牧师们的祝福，能将水中污垢沉淀，以便行人们随意取用池中的清水。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 341,
+    "url": "/db/item/h_1100215/?lang=CHS",
+    "name": "白瓷茶具-「怀质抱真」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "朴实无华的白瓷茶具，形制和工艺皆从璃月流传而来。\n据说毫无装饰的白瓷，象征着纯净而高雅的品格，正是「茶」中蕴含的精神之一。茶具的价值，也往往不能以简单的价格衡量。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 342,
+    "url": "/db/item/h_700210/?lang=CHS",
+    "name": "「夏日林中的盛宴」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "85",
+    "description": "造型自然而灵动的桌椅与阳伞，充分利用了各种树木与枝干，营造更为宽广的荫蔽与盛宴般的氛围，彰显着冒险家们苦中作乐的才华。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 6
+        },
+        {
+          "name": "桦木",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 343,
+    "url": "/db/item/h_700211/?lang=CHS",
+    "name": "???",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "???",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 344,
+    "url": "/db/item/h_700403/?lang=CHS",
+    "name": "「花海的摇篮」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "130",
+    "description": "独具匠心的园艺花篮，有着赏心悦目的外观。\n这种花篮合理搭配了土壤的配比，以便移植各地的花卉。\n据说每个花匠都渴望栽培一片绚烂的花海，为此，熟悉各种花卉的特点，是花匠们的必修课。这种花篮正是花匠们追求梦想的诸多杰作之一。",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 4
+        },
+        {
+          "name": "桦木",
+          "count": 4
+        },
+        {
+          "name": "杉木",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 345,
+    "url": "/db/item/h_700126/?lang=CHS",
+    "name": "「轻羽的礼赞」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "自由堆放，等待取用的羽球。\n凝结着蒙德民众美好愿景的羽球，是这场年度节庆的精粹。哪怕不愿运动的人们，也会在家中安放羽球作为饰品，从而融入节日欢腾的氛围。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "布匹",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 346,
+    "url": "/db/item/h_700404/?lang=CHS",
+    "name": "「蓝海的宝钱」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "摆放着各种海螺与贝壳的货架。\n据说许久以前，各式各样的海螺与贝壳曾因精美的外观，被赞誉为「大海的钱币」。孩子们前往海边后，也会尽量收集海螺和贝壳，作为独特的纪念品。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "白铁块",
+          "count": 8
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 347,
+    "url": "/db/item/h_700513/?lang=CHS",
+    "name": "？？？",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "？？？",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 4
+        },
+        {
+          "name": "铁块",
+          "count": 4
+        },
+        {
+          "name": "白铁块",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 348,
+    "url": "/db/item/h_700127/?lang=CHS",
+    "name": "「蓬蓬果的天空之梦」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "65",
+    "description": "以蓬蓬果制作的气球饰物，绳索的材料用到了蓬蓬果茎干中的纤维，尤为坚韧。\n蓬蓬果的飞翔之梦太过殷切，大概只有这种绳索，才能将它们挽留在地面吧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "布匹",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 349,
+    "url": "/db/item/h_700128/?lang=CHS",
+    "name": "「夏日林中的向导」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "造型自然而灵动的方向标，象征着冒险家们从未忘却的艺术意趣，仿佛来自树林的指引，引导人们寻获林中的荫凉。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "桦木",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 350,
+    "url": "/db/item/h_700129/?lang=CHS",
+    "name": "练兵场木桩支架",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "练兵场常用的支架，可以搭配其他木桩使用，模仿丘丘人的设施，用于练习兵器，也能单独使用，锤炼战士们的格斗技巧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "杉木",
+          "count": 8
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 351,
+    "url": "/db/item/h_700130/?lang=CHS",
+    "name": "「夏日林中的信使」",
+    "rarity": 3,
+    "comfort_points": "60",
+    "cost_points": "35",
+    "description": "造型自然而灵动的信箱。存放在其中的信件时常带有安神消暑的木香。倘若打开箱盖一段时间，也许还会有团雀造访，在信箱里乘凉。",
+    "recipe": {
+      "items": [
+        {
+          "name": "松木",
+          "count": 4
+        },
+        {
+          "name": "桦木",
+          "count": 4
+        }
+      ],
+      "time": 50400
+    }
+  },
+  {
+    "id": 352,
+    "url": "/db/item/h_700703/?lang=CHS",
+    "name": "???",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "35",
+    "description": "???",
+    "recipe": {
+      "items": [
+        {
+          "name": "萃华木",
+          "count": 8
+        },
+        {
+          "name": "布匹",
+          "count": 4
+        }
+      ],
+      "time": 57600
+    }
+  },
+  {
+    "id": 353,
+    "url": "/db/item/h_371108/?lang=CHS",
+    "name": "「斑斓与清冽之夏」",
+    "rarity": 4,
+    "comfort_points": "90",
+    "cost_points": "400",
+    "description": "点缀着珊瑚与贝壳的海滨水池，池中平放着一枚羽球。\n倘若见识到羽球节的盛况，海中的生灵大概也会被欢腾的氛围感染，渴望参与这场庆典吧。",
+    "recipe": {
+      "items": [
+        {
+          "name": "白铁块",
+          "count": 6
+        },
+        {
+          "name": "铁块",
+          "count": 6
+        }
+      ],
+      "time": 57600
+    }
+  }
+]
