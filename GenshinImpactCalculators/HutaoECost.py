@@ -1,4 +1,4 @@
-ipt = 50000000
+ipt = 100
 percentPerTime = 0.3
 times = 0
 

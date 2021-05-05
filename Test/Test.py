@@ -1,22 +1,17 @@
-import time
+import socket
 
-ipt = 99999999
 
-result = 0
+def package(pack_id, protocol_version, data):
+    final_data = bytearray(pack_id)
+    final_data.append(data)
 
-time_start = time.time_ns()
+    return final_data.hex()
 
-for x in range(1, ipt + 1):
-    t = 1
-    if ipt % x == 0:
-        if x % 2 == 1:
-            result += 1
-            # print(x)
-            t += 1
 
-time_end = time.time_ns()
+#
+# s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+# s.connect(("cn-zz-bgp-2.sakurafrp.com", 64360))
+#
+# s.send("test".encode())
 
-time_cost = time_end - time_start
-time_cost_ms = time_cost / 1000 / 1000
-
-print("result: {}, time cost(ms):{:.0f}".format(result, time_cost_ms))
+print(package(bytes.fromhex("00"), bytes("test".encode())))
