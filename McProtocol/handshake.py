@@ -25,12 +25,14 @@ def on_packet_recv(packet: Packet):
             print("0: ", packet.data)
     elif packet.id == 0x02:
         print("2: ", packet.id)
+    elif packet.id == 0x03:
+        print("3: ", packet.parse([VarInt])[0].get())
     elif packet.id == 0x04:
         print("4: ", packet.data)
     elif packet.id == 0x0e:
         print("e: ", packet.data)
     else:
-        print(packet.id, ": ", packet.parse([VarInt])[0].get())
+        print(packet.id, ": ", packet.data)
 
 
 def handshake(session, address, protocol_version, next_state):
@@ -66,8 +68,8 @@ if __name__ == "__main__":
     packet2.addField(MCString("randomName"))
     session.sendPacket(packet2)
 
-    # time.sleep(5)
+    time.sleep(1)
 
-    # packet2 = Packet(id=0x03)
-    # packet2.addField(MCString("test"))
-    # session.sendPacket(packet2)
+    packet2 = Packet(0x03)
+    packet2.addField(MCString('a'))
+    session.sendPacket(packet2)

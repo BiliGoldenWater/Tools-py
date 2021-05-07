@@ -7,23 +7,40 @@ import json
 from bs4 import BeautifulSoup
 
 
-@backoff.on_exception(backoff.expo, aiohttp.client_exceptions.ClientOSError, max_tries=10)
+@backoff.on_exception(backoff.expo, exception=aiohttp.client_exceptions.ClientOSError, max_tries=10)
+@backoff.on_exception(backoff.expo, exception=aiohttp.client_exceptions.ServerDisconnectedError, max_tries=10)
 async def get_data(id, root_url_p, url_p):
     async with aiohttp.ClientSession() as session:
         async with session.get(root_url_p + url_p) as response:
             result_ = await response.read()
 
+    print(url_p)
+
     soup_ = BeautifulSoup(result_.decode("utf-8"), "lxml")
     name = soup_.select("#content-main > div:nth-child(3) > div > div > div > div.custom_title")
+    type_ = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
+                         "tr:nth-child(1) > td:nth-child(3) > a")
     rarity = len(soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
                               "tr:nth-child(2) > td:nth-child(2) > div"))
-    comfort_points = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
+    adeptal_energy = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
                                   "tr:nth-child(3) > td:nth-child(2)")
-    cost_points = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
-                               "tr:nth-child(4) > td:nth-child(2)")
+    load = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
+                        "tr:nth-child(4) > td:nth-child(2)")
+    trust = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
+                         "tr:nth-child(5) > td:nth-child(2)")
     description = soup_.select("#content-main > div:nth-child(3) > div > div > div > table.item_main_table > "
-                               "tr:nth-child(5) > td:nth-child(2) > div")
+                               "tr:nth-child(6) > td:nth-child(2) > div")
+    recipe_title = soup_.select("#content-main > div:nth-child(3) > div > div > div > span")
     recipe = soup_.select("#content-main > div:nth-child(3) > div > div > div > table:nth-child(5) > tr > td")
+    if len(recipe_title) == 0:
+        recipe = []
+    else:
+        if recipe_title[0].get_text() != " Obtained from recipe ":
+            recipe = []
+
+    type_ = type_[0].get_text() if len(type_) > 0 else ""
+    type_ = type_.split(" ")
+    type_ = type_[len(type_) - 1] if len(type_) > 0 else ""
 
     recipe_processed = recipe[0].get_text() if len(recipe) > 0 else ""
     recipe_processed = recipe_processed.replace(" ", "")
@@ -52,9 +69,11 @@ async def get_data(id, root_url_p, url_p):
     data_final = {"id": id,
                   "url": url_p,
                   "name": name[0].get_text(),
+                  "type": type_,
                   "rarity": rarity,
-                  "comfort_points": comfort_points[0].get_text(),
-                  "cost_points": cost_points[0].get_text(),
+                  "adeptal_energy": adeptal_energy[0].get_text(),
+                  "load": load[0].get_text(),
+                  "trust": trust[0].get_text(),
                   "description": description[0].get_text("\\n"),
                   "recipe": recipe_final}
     print(data_final)
@@ -76,11 +95,14 @@ if __name__ == "__main__":
     furniture_list = []
     tasks = []
 
-    print(data_len)
+    print("Count:", data_len)
 
     for i in range(data_len):
         data = data_list[i]
         url = data.get("href")
+
+        if url.startswith("/db/item/hs"):
+            continue
 
         task = asyncio.ensure_future(get_data(i + 1, root_url, url))
         tasks.append(task)
